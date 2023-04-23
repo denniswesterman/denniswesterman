@@ -10,7 +10,6 @@ My passion is to share my knowledge with the world and help others learn and gro
 
 ## 📫 How to reach me
 
-- Email: denniswesterman@email.com
 - LinkedIn: [linkedin.com/in/denniswesterman](https://www.linkedin.com/in/denniswesterman/)
 - Twitter: [@westerman_it](https://twitter.com/westerman_it)
 - YouTube: [youtube.com/@denniswesterman](https://www.youtube.com/@denniswesterman)
