@@ -1,21 +1,29 @@
 # Hi, I'm Dennis Westerman! 👋
 
-My passion is to share knowledge with the world and help others learn and grow. Software development is my core focus, and I enjoy contributing to open-source projects and building a supportive community. A personal blog is in the works, where experiences and insights will be shared in an accessible, friendly way.
+Technology is about **people** first. That's what drives me as a **Lead ICT Architect**, software developer, and enthusiastic open-source advocate. My mission? Creating innovative workplaces where technology connects teams, sparks creativity, and empowers everyone to perform at their best—without barriers.
 
-## 🌱 Currently Exploring
-- Azure DevOps  
-- Intune Infrastructure as Code  
-- Microsoft Defender for Endpoint  
+I believe IT should be seamless, secure, and adaptable, enabling collaboration rather than complicating it. Want to explore more about this vision? Dive into my detailed [Workplace Vision & Strategy](workplace/readme.md).
 
-## Workplace Vision & Strategy
-A dedicated [Workplace Vision & Strategy](workplace/readme.md) document outlines a people-first approach to creating an environment where teams thrive, innovate, and collaborate with ease. It emphasizes simplicity, security, and continuous improvement—always placing individuals at the heart of the workplace.
+## 📫 Let's Connect!
 
-## 📫 Reach Out
+I enjoy meeting driven professionals, exchanging ideas, and exploring new opportunities. Reach out, say hi, or let’s discuss how technology can elevate your team's potential!
+
 - **LinkedIn:** [linkedin.com/in/denniswesterman](https://www.linkedin.com/in/denniswesterman/)  
 
-Feel free to connect, and let's learn and grow together!
-
 <!--
+## 🌱 Currently Exploring
+
+- **Azure DevOps** – Optimizing team workflows  
+- **Intune Infrastructure as Code** – Smarter device management  
+- **Microsoft Defender for Endpoint** – Adaptive and proactive security  
+
+
+- **Twitter:** [@westerman_it](https://twitter.com/westerman_it)  
+- **YouTube:** [youtube.com/@denniswesterman](https://www.youtube.com/@denniswesterman)  
+
+Let's keep learning, growing, and innovating—together! 🚀
+
+
 - **Twitter:** [@westerman_it](https://twitter.com/westerman_it)  
 - **YouTube:** [youtube.com/@denniswesterman](https://www.youtube.com/@denniswesterman)  
 
