@@ -1,6 +1,6 @@
 # Hi, I'm Dennis Westerman! 👋
 
-Technology is about **people** first. That's what drives me as a **Lead ICT Architect**, software developer, and enthusiastic open-source advocate. My mission? Creating innovative workplaces where technology connects teams, sparks creativity, and empowers everyone to perform at their best—without barriers.
+Technology is about **people** first. That's what drives me as a **Lead ICT Architect**, software developer, and enthusiastic open-source advocate. My mission? Creating innovative workplaces where technology connects teams, sparks creativity, and empowers everyone to perform at their best, without barriers.
 
 I believe IT should be seamless, secure, and adaptable, enabling collaboration rather than complicating it. Want to explore more about this vision? Dive into my detailed [Workplace Vision & Strategy](workplace/readme.md).
 
