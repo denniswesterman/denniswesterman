@@ -32,13 +32,13 @@ Organizations operate in an ever-changing environment, shaped by evolving employ
 A strong workplace is built **with** people, not just **for** them. Employees should be involved from the start, ensuring they align with the vision. By actively listening to their needs and ideas, organizations foster enthusiasm and engagement. Technology should follow people, never the other way around. This approach results in a workplace where employees experience **freedom instead of restrictions**, enabling them to work smarter, better, and more enjoyably.  
 
 ### **Technology as an Enabler, Not a Barrier**  
-Technology should be **invisible in its ease of use**, providing employees with the tools they need to collaborate effectively—without unnecessary complexity. Choices should be guided by **intuitive user experience**, ensuring that employees can work without friction, regardless of location, device, or time.  
+Technology should be **invisible in its ease of use**, providing employees with the tools they need to collaborate effectively, without unnecessary complexity. Choices should be guided by **intuitive user experience**, ensuring that employees can work without friction, regardless of location, device, or time.  
 
 ### **Security as a Foundation, Not an Obstacle**  
 Security should be **seamlessly integrated**, never acting as a roadblock. Instead of overwhelming employees with rigid policies and complex processes, organizations should establish **clear security principles** that work in the background. A well-structured framework ensures compliance without burdening employees, making security a natural part of daily work rather than a limitation.  
 
 ### **Continuous Improvement through Experience**  
-A workplace is never truly "finished"—it must continuously evolve based on real-world feedback. Regular **employee insights, analytics, and user experience evaluations** should drive improvements. Organizations should actively encourage employees to **share feedback**, fostering engagement and ensuring that the workplace remains aligned with their needs.  
+A workplace is never truly "finished". It must continuously evolve based on real-world feedback. Regular **employee insights, analytics, and user experience evaluations** should drive improvements. Organizations should actively encourage employees to **share feedback**, fostering engagement and ensuring that the workplace remains aligned with their needs.  
 
 ### **Culture as a Continuous Driver of Change**  
 A workplace is more than a collection of tools. It is a **living environment shaped by people, behaviors, and values**. A strong workplace culture does not emerge from a one-time transition; it requires continuous reinforcement, trust, and shared ownership.
