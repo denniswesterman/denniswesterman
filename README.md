@@ -8,7 +8,7 @@ My passion is to share knowledge with the world and help others learn and grow. 
 - Microsoft Defender for Endpoint  
 
 ## Workplace Vision & Strategy
-A dedicated [Workplace Vision & Strategy](workplace/README.md) document outlines a people-first approach to creating an environment where teams thrive, innovate, and collaborate with ease. It emphasizes simplicity, security, and continuous improvement—always placing individuals at the heart of the workplace.
+A dedicated [Workplace Vision & Strategy](workplace/readme.md) document outlines a people-first approach to creating an environment where teams thrive, innovate, and collaborate with ease. It emphasizes simplicity, security, and continuous improvement—always placing individuals at the heart of the workplace.
 
 ## 📫 Reach Out
 - **LinkedIn:** [linkedin.com/in/denniswesterman](https://www.linkedin.com/in/denniswesterman/)  
