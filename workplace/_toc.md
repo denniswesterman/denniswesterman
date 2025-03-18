@@ -2,5 +2,5 @@
  - [Introduction](readme.md)
 
   * [Governance](governance)
-    + [Introduction](/governance/readme.md)
+    + [Introduction](/workplace/governance/readme.md)
 
