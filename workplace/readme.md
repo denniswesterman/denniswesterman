@@ -71,7 +71,7 @@ Governance lays the foundation by defining what needs to be accomplished (compli
 
 - **Compliance**: An environment that naturally meets relevant regulations and internal standards, without introducing unnecessary complexity for users.  
 - **Security**: Practical protective measures for people and data that keep work reliably safe.  
-- **Learning & Adoption (optional placement)**: A focus on how employees are guided, trained, and motivated to embrace new ways of working. This often fits within Governance because it involves continuous improvement, cultural alignment, and organizational change.
+- **Learning & Adoption**: A focus on how employees are guided, trained, and motivated to embrace new ways of working. This often fits within Governance because it involves continuous improvement, cultural alignment, and organizational change.
 
 ## Design
 Once Governance sets the direction, the Design phase determines how to build the workplace. This involves turning policies and principles into high-level structures: selecting platforms, defining architecture, and mapping out user workflows. Design ensures that the user experience is intuitive (*Anytime, Anywhere, Any Device*) while reflecting the nine pillars (for instance, Secure, Inclusive, Ease of Mind).
