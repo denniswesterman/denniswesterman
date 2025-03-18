@@ -46,4 +46,4 @@ Governance exists to ensure that each of these pillars is upheld in practice. It
 
 By unifying Compliance, Security, and Learning & Adoption under a single governance framework, we establish a clear “north star” that aligns with the workplace strategy. This sets the stage for subsequent design decisions and practical configurations to be cohesive, transparent, and authentically user-centric.
 
-In the next chapters, we will explore how Governance translates into high-level design choices and concrete configuration steps, ensuring that the principles of our workplace vision, *Anytime, Anywhere, Any Device, Secure, Compliance, Ease of Mind,* and beyond. Becoming a seamless part of our daily operations.
+In the next chapters, we will explore how Governance translates into high-level design choices and concrete configuration steps, ensuring that the principles of our workplace vision, *Anytime, Anywhere, Any Device, Secure, Compliance, Ease of Mind,* and beyond.
