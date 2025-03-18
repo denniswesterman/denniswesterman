@@ -24,7 +24,6 @@ This approach ensures a workplace that is not only functional and secure but als
 
 <br>
 
-
 # **Strategy for the Workplace: Empowering People, Removing Barriers**  
 
 Organizations operate in an ever-changing environment, shaped by evolving employee expectations, growing security demands, and the need for seamless collaboration. A successful workplace strategy is not about technology itself, but about creating a work environment that **connects, empowers, and inspires people**, while ensuring simplicity, security, and long-term adaptability.  
@@ -62,7 +61,6 @@ By following these principles, organizations can create a **workplace that is no
 ---
 
 <br>
-
 
 # From Vision to Implementation: A Governance, Design, and Configuration Framework
 
