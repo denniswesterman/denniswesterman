@@ -1,6 +1,6 @@
  [Workplace](#workplace)
  - [Introduction](readme.md)
 
-  * [Governance](/governance)
+  * [Governance](governance)
     + [Introduction](/governance/readme.md)
 
