@@ -61,6 +61,9 @@ By following these principles, organizations can create a **workplace that is no
 
 ---
 
+<br>
+
+
 # From Vision to Implementation: A Governance, Design, and Configuration Framework
 
 A strong workplace vision is more than just an inspiring idea: its success depends on how it is governed, how it is designed, and how it is ultimately configured for everyday use. This framework ensures that every aspect of the modern workplace (from security and compliance to user adoption and continuous learning) is addressed in a coherent and sustainable manner.
