@@ -20,8 +20,9 @@ The modern workplace is built on nine key pillars, summarized as **"Anytime, Any
 
 This approach ensures a workplace that is not only functional and secure but also empowering, adaptable, and ready for the future. 
 
----
 <br>
+---
+
 # **Strategy for the Workplace: Empowering People, Removing Barriers**  
 
 Organizations operate in an ever-changing environment, shaped by evolving employee expectations, growing security demands, and the need for seamless collaboration. A successful workplace strategy is not about technology itself, but about creating a work environment that **connects, empowers, and inspires people**, while ensuring simplicity, security, and long-term adaptability.  
