@@ -60,6 +60,8 @@ By following these principles, organizations can create a **workplace that is no
 
 ---
 
+<br>
+
 # **From Strategy to Structure**
 
 A strong vision only becomes reality when it is embedded into how the workplace is **governed**, **designed**, and **configured**.  
