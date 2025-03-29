@@ -10,7 +10,7 @@ The modern workplace is built on nine key pillars, summarized as **"Anytime, Any
 
 - **Anytime (Flexible & Timeless):** Work without restrictions, adapting to individual schedules rather than fixed office hours.  
 - **Anywhere (Seamlessly Accessible):** Secure access from any location—whether at home, in the office, or on the go.  
-- **Any Device (Device-Agnostic):** Support for laptops, tablets, and smartphones, enabling users to work with their preferred device.  
+- **Any Device (Flexible by Design):** Support for laptops, tablets, and smartphones, enabling users to work with their preferred device.  
 - **Productive (Empowering & Efficient):** A workplace that streamlines workflows and enhances the ability to achieve professional goals.  
 - **Creative (Inspiring Innovation):** A  space that fosters creativity, encourages brainstorming, and drives innovation.  
 - **Secure (Uncompromising Security):** Built-in security measures that protect users and data without creating unnecessary barriers.  
