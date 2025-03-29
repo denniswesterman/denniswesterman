@@ -220,16 +220,6 @@ The workplace is not defined by tools, but by the **capabilities it enables**. T
 
 Each service maps directly to the workplace pillars and reflects what people and organizations fundamentally need to succeed.
 
-- **Identity & Access** – Trusted, seamless access based on role, context, and lifecycle.  
-- **Security & Protection** – Always-on protection that empowers, not obstructs.  
-- **Compliance & Trust** – Transparency and accountability by design.  
-- **Connectivity** – Working and collaborating from anywhere, without friction.  
-- **Endpoint Experience** – Devices that adapt to people, not the other way around.  
-- **Communication** – Clear, secure, and human ways to stay in touch.  
-- **File & Content Sharing** – Safe, accessible, and organized information flows.  
-- **Collaboration** – Teams that create and learn together across boundaries.  
-- **Printing & Output** – Physical information when and where it’s needed — safely.  
-- **Learning & Adoption** – Empowering people to grow with the workplace, not chase it.
 
 ---
 
