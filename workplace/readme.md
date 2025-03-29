@@ -47,7 +47,7 @@ A workplace is more than a collection of tools. It is a **living environment sha
 
 Organizations must **embed a culture of collaboration, adaptability, and empowerment**, ensuring that employees feel supported and engaged at every stage. This is achieved through **open communication, coaching, and an ongoing commitment to learning and improvement.**
 
-## **Turning Strategy into Action**
+## **Making the Strategy Work**
 
 To turn this vision into reality, the strategy is built around four key pillars:  
 
@@ -60,11 +60,10 @@ By following these principles, organizations can create a **workplace that is no
 
 ---
 
-<br>
+# **From Strategy to Structure**
 
-# From Vision to Strategy
-
-A strong workplace vision is more than just an inspiring idea: its success depends on how it is governed, how it is designed, and how it is ultimately configured for everyday use. This framework ensures that every aspect of the workplace (from security and compliance to user adoption and continuous learning) is addressed in a coherent and sustainable manner.
+A strong vision only becomes reality when it is embedded into how the workplace is **governed**, **designed**, and **configured**.  
+This structure ensures that every aspect of the workplace — from identity and security to collaboration and adoption — is aligned with the nine pillars and grounded in everyday reality.
 
 ## Governance
 Governance lays the foundation by defining what needs to be accomplished (compliance, security, and overall policy) and why these objectives matter. It offers oversight, sets clear boundaries, and keeps the workplace aligned with broader organizational goals. This chapter is divided into three areas:
@@ -210,3 +209,102 @@ This layer is not only about technical implementation. It is about **making sure
 
 - **Clarity and Support**  
   Configuration includes thoughtful documentation, clear support paths, and responsive management — so every service continues to deliver value after go-live.
+
+
+########
+# The Workplace Model: Services, Governance, Design & Configuration
+
+## Services
+
+The workplace is not defined by tools, but by the **capabilities it enables**. These services represent long-term value areas that support people in how they work, connect, and grow — regardless of the underlying technology.
+
+Each service maps directly to the workplace pillars and reflects what people and organizations fundamentally need to succeed.
+
+- **Identity & Access** – Trusted, seamless access based on role, context, and lifecycle.  
+- **Security & Protection** – Always-on protection that empowers, not obstructs.  
+- **Compliance & Trust** – Transparency and accountability by design.  
+- **Connectivity** – Working and collaborating from anywhere, without friction.  
+- **Endpoint Experience** – Devices that adapt to people, not the other way around.  
+- **Communication** – Clear, secure, and human ways to stay in touch.  
+- **File & Content Sharing** – Safe, accessible, and organized information flows.  
+- **Collaboration** – Teams that create and learn together across boundaries.  
+- **Printing & Output** – Physical information when and where it’s needed — safely.  
+- **Learning & Adoption** – Empowering people to grow with the workplace, not chase it.
+
+---
+
+## Governance
+
+Governance is the **strategic compass** of the workplace. It provides direction, clarity, and alignment across all services — ensuring that what we do always reflects who we are, and why we’re doing it.
+
+### What Governance Shapes
+
+- **Policy and Principles**  
+  Shared standards and agreements that guide all services with clarity and intention.
+
+- **Compliance by Design**  
+  Legal and regulatory expectations are built into services — not added as an afterthought.
+
+- **Security that Supports**  
+  Trust is created by embedding protection into the core — quietly, contextually, and with respect for usability.
+
+- **Access and Identity Strategy**  
+  Defining how identities are issued, managed, and retired — supporting zero-trust, role-based, and lifecycle-aware access.
+
+- **Learning & Adoption Leadership**  
+  Enabling people to grow with the workplace through structured learning, support, and community. Adoption is a process, not an event.
+
+- **Ownership and Accountability**  
+  Clarity on who owns what — from decisions and direction to daily care and improvement.
+
+---
+
+## Design
+
+Design translates the why of governance into the **how** of experience. It gives form to values, turning strategy into intuitive, empowering, and inclusive services.
+
+### What Design Creates
+
+- **Human-Centered Architecture**  
+  Design begins and ends with people. Interfaces, workflows, and flows are tailored to real-world roles and needs.
+
+- **Interconnected Services**  
+  Services are not silos — design considers dependencies, overlap, and synergy.
+
+- **Personalized Journeys**  
+  Experiences that adapt to context — deskless workers, hybrid employees, team leads, or knowledge workers.
+
+- **Accessibility and Inclusion by Default**  
+  Everyone can participate. Everyone belongs. No exceptions.
+
+- **Scalability and Simplicity**  
+  Services that grow with the organization and adapt with minimal effort.
+
+- **Built-in Feedback Loops**  
+  Design learns. Metrics and employee experience data shape iteration and innovation.
+
+---
+
+## Configuration
+
+Configuration ensures that the workplace isn’t just a vision — it’s a **working reality**. It connects design to daily life, making sure the employee experience is consistent, secure, and aligned with purpose.
+
+### What Configuration Enables
+
+- **Intentional Settings**  
+  Every setting reflects a decision. Every choice supports an outcome.
+
+- **Shared Foundations**  
+  Central services like monitoring, logging, and identity verification provide coherence across all touchpoints.
+
+- **Managed Rollouts**  
+  Change happens in rhythm — phased, tested, and communicated.
+
+- **Policy in Action**  
+  Governance becomes visible: data classification, access control, lifecycle rules — all working silently behind the scenes.
+
+- **Automation that Scales**  
+  Repetition is removed. Consistency is increased. Effort is reduced.
+
+- **Support and Continuity**  
+  Every service is documented, monitored, and supported — so people can focus on their work, not their tools.
