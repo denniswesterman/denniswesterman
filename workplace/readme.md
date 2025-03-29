@@ -74,18 +74,27 @@ Governance lays the foundation by defining what needs to be accomplished (compli
 - **Learning & Adoption**: A focus on how employees are guided, trained, and motivated to embrace new ways of working. This often fits within Governance because it involves continuous improvement, cultural alignment, and organizational change.
 
 ## Design
-Once Governance sets the direction, the Design phase determines how to build the workplace. This involves turning policies and principles into high-level structures: selecting platforms, defining architecture, and mapping out user workflows. Design ensures that the user experience is intuitive (*Anytime, Anywhere, Any Device*) while reflecting the nine pillars (for instance, Secure, Inclusive, Ease of Mind).
 
-- **High-level architecture decisions** (for example, which services to integrate and how the user experience is delivered).  
-- **Functional design** that emphasizes productivity, creativity, and inclusivity.  
-- **Technical design choices** that enable seamless access, stability, and readiness for future growth.
+Once Governance has set the direction, the Design phase determines how the workplace takes shape in practice. Policies and principles are translated into clear design choices regarding platforms, architecture, and user workflows. Central to this is creating an intuitive user experience, based on principles such as *Anytime, Anywhere, Any Device*.
+
+- **Architecture & Design Decisions**  
+  Describes both strategic and specific choices around platforms, services, security, and functionality to ensure seamless access, stability, and readiness for future growth.
+
+- **Functional Design**  
+  Clarifies how the workplace actively supports employees in productivity, creativity, and inclusivity, making explicit what the design means for users.
 
 ## Configuration
-The final layer covers the practical setup and deployment of all solutions. Configuration translates each design element into actionable settings, specific security policies, and operational guidelines. It ensures that daily usage (device configurations, user rights, data retention, security monitoring, etc.) truly reflects the vision and the organization’s strategic goals.
 
-- **Detailed technical specifications** (for example, conditional access rules, identity management, device policies).  
-- **Step-by-step rollouts, test plans,** and **optimization procedures**.  
-- **Clear documentation and support materials** so teams can operate and maintain the environment effectively.
+Configuration ensures that the design is effectively realized in everyday practice. This stage translates design choices into clear, practical settings and policies aligned with day-to-day operations. The goal is to ensure that the daily use of the workplace seamlessly reflects the organization’s strategic goals.
+
+- **Configuration Decisions**  
+  Defines specific settings and policies to consistently, securely, and intuitively implement the design.
+
+- **Implementation and Rollout**  
+  Ensures structured deployment of new solutions, including testing, evaluation, and adjustments where necessary, to guarantee optimal operation in daily practice.
+
+- **Operational Guidelines and Documentation**  
+  Provides clear instructions for managing, maintaining, and supporting the workplace, allowing employees to fully focus on their work.
 
 ## Why This Structure?
 - **Clear Accountability**: Separating governance, design, and configuration makes it clear who is responsible for high-level policy decisions, who transforms them into designs, and who implements them technically. This avoids confusion and helps every part of the organization understand its role.  
