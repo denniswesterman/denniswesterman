@@ -9,11 +9,11 @@ This creates an environment where employees can thrive, collaboration becomes se
 The modern workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, Any Device"**, complemented by six additional core principles. Together, these pillars create an optimal environment where productivity, security, and creativity seamlessly converge:  
 
 - **Anytime (Flexible & Timeless):** Work without restrictions, adapting to individual schedules rather than fixed office hours.  
-- **Anywhere (Seamlessly Accessible):** Secure access from any location—whether at home, in the office, or on the go.  
+- **Anywhere (Seamlessly Accessible):** Secure access from any location, such as home, office, or on the go.  
 - **Any Device (Flexible by Design):** Support for laptops, tablets, and smartphones, enabling users to work with their preferred device.  
 - **Productive (Empowering & Efficient):** A workplace that streamlines workflows and enhances the ability to achieve professional goals.  
 - **Creative (Inspiring Innovation):** A  space that fosters creativity, encourages brainstorming, and drives innovation.  
-- **Secure (Uncompromising Security):** Built-in security measures that protect users and data without creating unnecessary barriers.  
+- **Secure (Uncompromising Security):** Built-in security measures that proactively protect the organization, its users, and their data without creating unnecessary barriers.
 - **Compliance (Reliable & Seamless):** Automatic adherence to regulations and industry standards without adding complexity for users.  
 - **Ease of Mind (Seamless & Supportive):** Technology that works quietly in the background, allowing employees to focus on what truly matters.  
 - **Inclusive (Accessible & Equitable):** A workplace designed for everyone, embracing diversity and ensuring equal access for all.  
