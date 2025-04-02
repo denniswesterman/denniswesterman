@@ -1,10 +1,8 @@
-# Workplace Vision: A People-First Digital Future
+# Visie op de Werkplek: Een Mensgerichte Digitale Toekomst
 
-The strength of this workplace vision lies in the combination of **flexibility, simplicity, and trust**. Technology is not the focal point. **People are**.  
+De kracht van deze visie op de werkplek ligt in de combinatie van **flexibiliteit, eenvoud en vertrouwen**. Technologie staat niet centraal. **Mensen wel**.
 
-This creates an environment where employees can thrive, collaboration becomes second nature, and secure work is possible anytime, anywhere. It is more than just a physical space; it is a way of working that empowers organizations to fulfill their mission more effectively, both now and in the future.  
-
-# The Workplace: A Foundation of Nine Pillars  
+Dit zorgt voor een omgeving waarin medewerkers kunnen floreren, samenwerking vanzelfsprekend wordt, en veilig werken altijd en overal mogelijk is. Het is meer dan alleen een fysieke ruimte; het is een manier van werken die organisaties in staat stelt hun missie effectiever te realiseren – nu én in de toekomst.
 
 ## De Werkplek: Een Fundament van Negen Pijlers
 
