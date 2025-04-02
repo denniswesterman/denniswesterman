@@ -13,28 +13,28 @@ De werkplek is gebaseerd op negen belangrijke pijlers, samengevat als **"Anytime
 **Anytime (Werk-privé in balans)**
 Werken zonder beperkingen, afgestemd op individuele schema’s in plaats van vaste kantooruren.
 
-**Overal (Naadloos Toegankelijk)**
+**Anywhere (Grenzeloos Toegankelijk)**
 Veilige toegang vanaf elke locatie, zoals thuis, kantoor of onderweg.
 
-**Elk Apparaat (Flexibel Ontworpen)**
+**Any Device (Flexibel by Design)**
 Ondersteuning voor laptops, tablets en smartphones, zodat gebruikers kunnen werken met hun favoriete apparaat.
 
-**Productief (Versterkend & Efficiënt)**
+**Productive (Versterkend & Efficiënt)**
 Een werkplek die workflows stroomlijnt en de mogelijkheid vergroot om professionele doelen te bereiken.
 
-**Creatief (Innovatie Inspirerend)**
+**Creative (Innovatie Inspirerend)**
 Een ruimte die creativiteit stimuleert, brainstormen aanmoedigt en innovatie aandrijft.
 
-**Veilig (Oncompromisbare Veiligheid)**
+**Secure (Oncompromisbare Security)**
 Ingebouwde beveiligingsmaatregelen die proactief de organisatie, gebruikers en hun gegevens beschermen zonder onnodige barrières te creëren.
 
-**Compliance (Betrouwbaar & Naadloos)**
+**Compliance  (Betrouwbaar & Soepel)**
 Automatische naleving van regelgeving en industrienormen zonder extra complexiteit voor gebruikers.
 
-**Gemoedsrust (Naadloos & Ondersteunend)**
+**Ease of Mind (Rustgevend & Ondersteunend)**
 Technologie die stil op de achtergrond werkt, waardoor medewerkers zich kunnen concentreren op wat echt belangrijk is.
 
-**Inclusief (Toegankelijk & Gelijkwaardig)**
+**Inclusive (Toegankelijk & Omarmend)**
 Een werkplek ontworpen voor iedereen, waarbij diversiteit wordt omarmd en gelijke toegang wordt gegarandeerd.
 
 Deze benadering zorgt voor een werkplek die niet alleen functioneel en veilig is, maar ook versterkend, flexibel en toekomstbestendig.
