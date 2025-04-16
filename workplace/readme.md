@@ -63,6 +63,7 @@ By following these principles, organizations can create a **workplace that is no
 <br>
 
 # **From Strategy to Structure**
+## Governance, Design & Configuration Framework for IT
 
 A strong vision only becomes reality when it is embedded into how the workplace is **governed**, **designed**, and **configured**.  
 This structure ensures that every aspect of the workplace — from identity and security to collaboration and adoption — is aligned with the nine pillars and grounded in everyday reality.
