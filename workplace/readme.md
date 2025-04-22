@@ -4,7 +4,9 @@ The strength of this workplace vision lies in the combination of **flexibility, 
 
 This creates an environment where employees can thrive, collaboration becomes second nature, and secure work is possible anytime, anywhere. It is more than just a physical space; it is a way of working that empowers organizations to fulfill their mission more effectively, both now and in the future.  
 
-# The Workplace: A Foundation of Nine Pillars  
+# The Workplace: A Foundation of Nine Pillars
+
+![A Foundation of Nine Pillars](https://github.com/denniswesterman/denniswesterman/blob/e5cd743108dd1c19b982d0cd430a9425276b58d9/workplace/A_FOUNDATION_OF_NINE_PILLARS.png)
 
 The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, Any Device"**, complemented by six additional core principles. Together, these pillars create an optimal environment where productivity, security, and creativity seamlessly converge:  
 
@@ -19,8 +21,6 @@ The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, 
 - **Inclusive (Accessible & Equitable):** A workplace designed for everyone, embracing diversity and ensuring equal access for all.  
 
 This approach ensures a workplace that is not only functional and secure but also empowering, adaptable, and ready for the future. 
-
-![A Foundation of Nine Pillars](https://github.com/denniswesterman/denniswesterman/blob/e5cd743108dd1c19b982d0cd430a9425276b58d9/workplace/A_FOUNDATION_OF_NINE_PILLARS.png)
 
 ---
 
