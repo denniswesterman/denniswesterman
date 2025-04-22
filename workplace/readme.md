@@ -6,7 +6,7 @@ This creates an environment where employees can thrive, collaboration becomes se
 
 # The Workplace: A Foundation of Nine Pillars
 
-![A Foundation of Nine Pillars](https://github.com/denniswesterman/denniswesterman/blob/e5cd743108dd1c19b982d0cd430a9425276b58d9/workplace/A_FOUNDATION_OF_NINE_PILLARS.png)
+![A Foundation of Nine Pillars](https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png)
 
 The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, Any Device"**, complemented by six additional core principles. Together, these pillars create an optimal environment where productivity, security, and creativity seamlessly converge:  
 
