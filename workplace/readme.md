@@ -20,6 +20,8 @@ The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, 
 
 This approach ensures a workplace that is not only functional and secure but also empowering, adaptable, and ready for the future. 
 
+![A Foundation of Nine Pillars](https://github.com/denniswesterman/denniswesterman/blob/e5cd743108dd1c19b982d0cd430a9425276b58d9/workplace/A_FOUNDATION_OF_NINE_PILLARS.png)
+
 ---
 
 <br>
