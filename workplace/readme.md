@@ -10,7 +10,7 @@ This creates an environment where employees can thrive, collaboration becomes se
 
 The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, Any Device"**, complemented by six additional core principles. Together, these pillars create an optimal environment where productivity, security, and creativity seamlessly converge:  
 
-- **Anytime (Flexible & Timeless):** Work without restrictions, adapting to individual schedules rather than fixed office hours.  
+- **Anytime (Flexible & Timeless):** Work without unnecessary restrictions, offering employees with flexible workplaces complete flexibility, as well as empowering shift-based employees to manage their tasks effectively within structured schedules..  
 - **Anywhere (Seamlessly Accessible):** Secure access from any location, such as home, office, or on the go.  
 - **Any Device (Flexible by Design):** Support for laptops, tablets, and smartphones, enabling users to work with their preferred device.  
 - **Productive (Empowering & Efficient):** A workplace that streamlines workflows and enhances the ability to achieve professional goals.  
