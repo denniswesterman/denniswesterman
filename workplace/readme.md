@@ -149,8 +149,6 @@ By integrating these structured elements, the organization can effectively fulfi
 
 ---
 
-
-
 # Introduction to the Governance, Design and Configuration Framework
 
 ## Services
