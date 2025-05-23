@@ -6,21 +6,22 @@ This creates an environment where employees can thrive, collaboration becomes se
 
 # The Workplace: A Foundation of Nine Pillars
 
-![A Foundation of Nine Pillars](https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png)
+<img src="https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png" alt="A Foundation of Nine Pillars" width="400">
 
+<br>
 The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, Any Device"**, complemented by six additional core principles. Together, these pillars create an optimal environment where productivity, security, and creativity seamlessly converge:  
 
-- **Anytime (Flexible & Timeless):** Work without unnecessary restrictions, offering employees with flexible workplaces complete flexibility, as well as empowering shift-based employees to manage their tasks effectively within structured schedules..  
-- **Anywhere (Seamlessly Accessible):** Secure access from any location, such as home, office, or on the go.  
-- **Any Device (Flexible by Design):** Support for laptops, tablets, and smartphones, enabling users to work with their preferred device.  
-- **Productive (Empowering & Efficient):** A workplace that streamlines workflows and enhances the ability to achieve professional goals.  
-- **Creative (Inspiring Innovation):** A  space that fosters creativity, encourages brainstorming, and drives innovation.  
-- **Secure (Uncompromising Security):** Built-in security measures that proactively protect the organization, its users, and their data without creating unnecessary barriers.
-- **Compliance (Reliable & Seamless):** Automatic adherence to regulations and industry standards without adding complexity for users.  
-- **Ease of Mind (Seamless & Supportive):** Technology that works quietly in the background, allowing employees to focus on what truly matters.  
-- **Inclusive (Accessible & Equitable):** A workplace designed for everyone, embracing diversity and ensuring equal access for all.  
+- **Anytime (Flexible & Timeless):** Work without unnecessary restrictions, offering employees with flexible workplaces complete freedom, as well as empowering shift-based employees to manage their tasks effectively within structured schedules. 
+- **Anywhere (Seamlessly Accessible):** Enable secure and reliable access from any location, whether at home, in the office, or on the go, maintaining flexibility without compromising security or ease of use.
+- **Any Device (Flexible by Design):** Provide effortless and secure connectivity across laptops, tablets, or smartphones, allowing employees to comfortably use the device they prefer most.
+- **Productive (Empowering & Efficient):** Streamline tasks and workflows, enhancing efficiency so employees achieve their goals with clarity, confidence, and ease. 
+- **Creative (Inspiring Innovation):** Foster fresh ideas and collaboration, nurturing an environment where employees feel encouraged to think innovatively and without limits.
+- **Secure (Uncompromising Security):** Integrate proactive protection seamlessly into daily tasks, safeguarding people and data while maintaining a trusted yet unobtrusive presence.
+- **Compliance (Reliable & Seamless):** Ensure effortless adherence to internal standards and external regulations, helping employees feel confident and supported without added complexity.
+- **Ease of Mind (Seamless & Supportive):** Deliver a unified, intuitive user experience, enabling effortless access to necessary resources across any platform, application, or device.
+- **Inclusive (Accessible & Equitable):** Design thoughtfully for everyone, actively welcoming diversity, and ensuring each employee feels genuinely valued, supported, and included.
 
-This approach ensures a workplace that is not only functional and secure but also empowering, adaptable, and ready for the future. 
+This approach ensures a workplace that is not only functional and secure but also empowering, adaptable, and ready for the future.
 
 ---
 
