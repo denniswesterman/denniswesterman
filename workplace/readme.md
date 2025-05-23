@@ -149,114 +149,36 @@ By integrating these structured elements, the organization can effectively fulfi
 
 ---
 
-# Introduction to the Governance, Design and Configuration Framework
+# **Introduction to the Governance, Design and Configuration Framework**
 
-## Services
+## **Services**
 
-The workplace is no longer defined by tools, but by the **experiences and outcomes** it enables. That is why we view the workplace through the lens of functional services — the core capabilities that make modern work possible. These services are not temporary technologies, but enduring pillars that support the employee journey from access to collaboration, from protection to empowerment.
+Today’s workplace isn't defined by tools alone, but by the **experiences and outcomes** it enables. That’s why we approach it through functional services, representing core capabilities that make modern work both productive and meaningful. These services are enduring foundations, supporting the employee journey from access to collaboration and from protection to empowerment.
 
-Each service contributes directly to one or more of the nine workplace pillars, such as *Secure*, *Compliant*, *Inclusive*, and *Productive*. More importantly, they reflect what people need — to connect, to contribute, and to grow.
+Each service directly supports one or more of the nine workplace pillars, such as *Secure*, *Compliant*, *Inclusive*, and *Productive*. Most importantly, they reflect genuine employee needs—to connect, to contribute, and to grow.
 
-The services include:
+The workplace services include:
 
-- **Identity & Access** – Ensuring that the right people have access to the right resources, based on trust, role, and need.  
-- **Security** – Making security invisible but ever-present, protecting people and information without hindering flow.  
-- **Compliance** – Helping the organization act responsibly and transparently by meeting internal and external expectations by design.  
-- **Connectivity** – Enabling employees to work and collaborate from anywhere, securely and seamlessly.  
-- **Endpoint** – Supporting people on any device, with smooth performance and the right balance of freedom and control.  
-- **Communication** – Facilitating effortless and secure communication across teams, time zones, and boundaries.  
-- **File & Content Sharing** – Making information easy to find, secure to share, and safe to manage throughout its lifecycle.  
-- **Collaboration** – Allowing people to co-create, brainstorm, and work together in real time, asynchronously or synchronously.  
-- **Learning & Adoption** – Supporting people in embracing new ways of working through guidance, community, and continuous learning.
+- **Identity & Access:** Ensuring the right people have seamless access to the appropriate resources, driven by trust, role, and clear need.
 
----
+- **Security:** Integrating security quietly but consistently, protecting people and information without interrupting workflow.
 
-## Governance
+- **Compliance:** Enabling the organization to effortlessly meet internal standards and external expectations, transparently and responsibly by design.
 
-Governance is the compass of the workplace. It defines what must be achieved across each service area — and why it matters. Instead of focusing on tools or rules alone, it connects services to broader organizational goals, values, and responsibilities.
+- **Connectivity:** Providing secure, reliable access that empowers employees to collaborate and communicate effectively from anywhere.
 
-This layer provides structure and clarity: which principles apply, who is responsible, and how trust, compliance, and simplicity are maintained across the entire digital landscape.
+- **Endpoint:** Supporting optimal performance on any device, balancing ease of use, freedom, and control for an exceptional user experience.
 
-### What Governance Shapes:
+- **Communication:** Facilitating smooth, secure interactions across teams, time zones, and organizational boundaries.
 
-- **Policy and Principles**  
-  Clear boundaries and consistent standards that guide each service. These are not rigid rules, but shared agreements that help everyone move in the same direction.
+- **File & Content Sharing:** Making it easy to find, securely share, and effectively manage information throughout its entire lifecycle.
 
-- **Compliance by Design**  
-  Regulations and internal policies are not afterthoughts — they are embedded from the start. Governance ensures services naturally meet legal and regulatory expectations, without creating unnecessary complexity.
+- **Collaboration:** Creating seamless spaces for employees to co-create, brainstorm, and collaborate—in real time or asynchronously.
 
-- **Security that Supports, Not Restricts**  
-  Security baselines are established across services like identity, devices, communication, and storage — always balancing protection with usability.
-
-- **Access and Identity Strategy**  
-  Defines how people are identified, connected, and protected — from onboarding to offboarding. This includes role-based access, lifecycle management, and a zero-trust mindset.
-
-- **Learning & Adoption Leadership**  
-  A modern workplace is only successful if people understand it, believe in it, and know how to use it. Governance defines how learning, coaching, and adoption are supported across the organization — not as one-off training, but as a continuous and strategic commitment to employee enablement.
-
-- **Ownership and Accountability**  
-  Every service needs a clear owner. Governance makes it transparent who leads, who supports, and how decisions are made and escalated.
+- **Learning & Adoption:** Actively guiding and inspiring employees as they adopt new ways of working, fostering community, continuous learning, and engagement.
 
 ---
 
-## Design
-
-Where governance defines the “why”, **design defines the “how”**. It translates values and principles into experiences — shaping the workplace around people, not the other way around. Design is where strategy becomes tangible, and the workplace becomes real.
-
-Design is not about interfaces or systems alone. It’s about how people feel when they interact with those systems. It’s about **intuitive flow, meaningful connection, and thoughtful support**.
-
-### What Design Creates:
-
-- **Human-Centered Architecture**  
-  Every service is designed with the people who use it in mind. This includes not just systems and workflows, but also roles, interfaces, and meaningful user journeys.
-
-- **Connection Between Services**  
-  Services do not stand alone. Design focuses on how they interact — for example, how identity flows into collaboration, or how endpoint compliance impacts secure communication.
-
-- **Personalized Experiences**  
-  Services are adapted to roles and contexts — mobile workers, office staff, support teams — each receiving what they need, in the way that fits them best.
-
-- **Inclusivity and Accessibility**  
-  Every service is designed to be accessible to everyone. Diversity is not an add-on — it’s built in.
-
-- **Scalable by Nature**  
-  Design ensures services grow with the organization. Simplicity, modularity, and flexibility are key to long-term sustainability.
-
-- **Built-in Feedback Loops**  
-  Metrics and experience data are used to continuously refine design. Listening is part of designing.
-
----
-
-## Configuration
-
-Configuration brings the workplace to life. It ensures that what has been envisioned, governed, and designed is **actually experienced** — by every user, every day. It connects purpose to practice.
-
-Where design crafts the experience, configuration **safeguards it** — by making sure settings, policies, and behaviors reflect the strategic intent.
-
-This layer is not only about technical implementation. It is about **making sure the workplace feels as good as it sounds** — consistent, secure, empowering, and human-centered.
-
-### What Configuration Enables:
-
-- **Purposeful Settings**  
-  Every configuration choice aligns with the service’s intended experience — from access policies to email safeguards and endpoint compliance.
-
-- **Shared Foundations**  
-  Where services overlap, shared components ensure consistency — like logging, monitoring, identity verification, and policy enforcement.
-
-- **Smooth Rollouts**  
-  Change is introduced with care. Testing, pilots, and phased launches ensure that transitions are smooth and employee-focused.
-
-- **Policy in Practice**  
-  Governance becomes reality through real-world implementation — data loss prevention, lifecycle rules, access models — all made active and operational.
-
-- **Automation that Empowers**  
-  Repetition is minimized, consistency is maximized. Automation makes the complex feel simple and scalable.
-
-- **Clarity and Support**  
-  Configuration includes thoughtful documentation, clear support paths, and responsive management — so every service continues to deliver value after go-live.
-
-
-########
 # The Workplace Model: Services, Governance, Design & Configuration
 
 ## Services
@@ -264,7 +186,6 @@ This layer is not only about technical implementation. It is about **making sure
 The workplace is not defined by tools, but by the **capabilities it enables**. These services represent long-term value areas that support people in how they work, connect, and grow — regardless of the underlying technology.
 
 Each service maps directly to the workplace pillars and reflects what people and organizations fundamentally need to succeed.
-
 
 ---
 
