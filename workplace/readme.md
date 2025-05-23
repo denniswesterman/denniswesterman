@@ -87,51 +87,74 @@ By following these principles, organizations can create a workplace that is not 
 
 ---
 
-<br>
-
 # **From Strategy to Structure**
-## Governance, Design & Configuration Framework for IT
 
-A strong vision only becomes reality when it is embedded into how the workplace is **governed**, **designed**, and **configured**.  
-This structure ensures that every aspect of the workplace — from identity and security to collaboration and adoption — is aligned with the nine pillars and grounded in everyday reality.
+## **Governance, Design & Configuration Framework for IT**
 
-## Governance
-Governance lays the foundation by defining what needs to be accomplished (compliance, security, and overall policy) and why these objectives matter. It offers oversight, sets clear boundaries, and keeps the workplace aligned with broader organizational goals. This chapter is divided into three areas:
+A strong vision only becomes reality when it is embedded into how the workplace is **governed**, **designed**, and **configured**.
 
-- **Compliance**: An environment that naturally meets relevant regulations and internal standards, without introducing unnecessary complexity for users.  
-- **Security**: Practical protective measures for people and data that keep work reliably safe.  
-- **Learning & Adoption**: A focus on how employees are guided, trained, and motivated to embrace new ways of working. This often fits within Governance because it involves continuous improvement, cultural alignment, and organizational change.
+This structured approach ensures every aspect of the workplace, from identity and security to collaboration and adoption, aligns with the nine foundational pillars and remains grounded in everyday reality.
 
-## Design
+---
 
-Once Governance has set the direction, the Design phase determines how the workplace takes shape in practice. Policies and principles are translated into clear design choices regarding platforms, architecture, and user workflows. Central to this is creating an intuitive user experience, based on principles such as *Anytime, Anywhere, Any Device*.
+## **Governance**
+
+Governance sets the foundation by defining clearly what needs to be accomplished—such as compliance, security, and overall policy—and why these objectives truly matter. It provides oversight, establishes clear boundaries, and ensures the workplace consistently aligns with broader organizational goals. Governance focuses primarily on three key areas:
+
+- **Compliance:** Creating an environment that naturally meets relevant regulations and internal standards, without adding complexity for employees.
+
+- **Security:** Establishing practical protective measures to reliably safeguard people and data.
+
+- **Learning & Adoption:** Ensuring employees are guided, trained, and inspired to embrace new ways of working, fostering continuous improvement, cultural alignment, and meaningful change.
+
+---
+
+## **Design**
+
+Once Governance provides clear direction, the Design phase shapes how the workplace takes form in practice. High-level policies and principles become concrete design choices around platforms, architecture, and user experiences. Central to Design is crafting intuitive experiences that fully embody principles like *Anytime, Anywhere, Any Device*.
 
 - **Architecture & Design Decisions**  
-  Describes both strategic and specific choices around platforms, services, security, and functionality to ensure seamless access, stability, and readiness for future growth.
+  Strategic choices around platforms, services, security, and functionality ensure seamless user experiences, stability, and readiness for future growth.
 
 - **Functional Design**  
-  Clarifies how the workplace actively supports employees in productivity, creativity, and inclusivity, making explicit what the design means for users.
+  Clearly defines how the workplace practically supports productivity, creativity, and inclusivity, explicitly connecting the design to everyday user experiences.
 
-## Configuration
+---
 
-Configuration ensures that the design is effectively realized in everyday practice. This stage translates design choices into clear, practical settings and policies aligned with day-to-day operations. The goal is to ensure that the daily use of the workplace seamlessly reflects the organization’s strategic goals.
+## **Configuration**
+
+Configuration brings design to life, ensuring it's effectively realized in daily practice. This stage transforms design choices into practical settings and policies closely aligned with operational needs, ensuring the workplace genuinely reflects the organization's strategic goals.
 
 - **Configuration Decisions**  
-  Defines specific settings and policies to consistently, securely, and intuitively implement the design.
+  Define clear, consistent settings and policies that implement the design intuitively and securely.
 
 - **Implementation and Rollout**  
-  Ensures structured deployment of new solutions, including testing, evaluation, and adjustments where necessary, to guarantee optimal operation in daily practice.
+  Structured deployment, including thorough testing, careful evaluation, and timely adjustments, guarantees smooth and effective adoption in daily operations.
 
 - **Operational Guidelines and Documentation**  
-  Provides clear instructions for managing, maintaining, and supporting the workplace, allowing employees to fully focus on their work.
+  Provide clear, user-friendly guidance for managing, maintaining, and supporting the workplace, allowing employees to focus fully on their work.
 
-## Why This Structure?
-- **Clear Accountability**: Separating governance, design, and configuration makes it clear who is responsible for high-level policy decisions, who transforms them into designs, and who implements them technically. This avoids confusion and helps every part of the organization understand its role.  
-- **Traceability**: The structure creates a direct connection between strategic goals (*why* something should be done), specific policies (*what* must be done), and actual implementation (*how* it is carried out).  
-- **Simplicity & Adaptability**: By dividing the workplace strategy into these elements, it becomes easier to adapt or refine each one over time. When compliance obligations evolve, the updates occur in Governance; when technology changes, Design and Configuration can be revised with minimal disruption elsewhere.  
-- **Continuous Improvement**: Governance provides a built-in feedback loop, especially when it includes learning and adoption. Employees’ experiences and changing organizational needs are fed back into policies and design updates, keeping the workplace relevant and effective.
+---
 
-By uniting these elements, the organization can fulfill the nine pillars (*Anytime, Anywhere, Any Device, Secure, Compliance, Ease of Mind,* and so forth) and transform a strong vision into a sustainable, people-focused, and future-ready reality.
+## **Why This Structure?**
+
+- **Clear Accountability:**  
+  Clearly separates who sets policy (Governance), who translates it into practical designs (Design), and who implements it technically (Configuration). This avoids confusion, ensuring each organizational role is distinct and understood.
+
+- **Traceability:**  
+  Creates a direct connection from strategic goals (*why*), through specific policies (*what*), to actual implementation (*how*), enabling clear insight into decisions and outcomes.
+
+- **Simplicity & Adaptability:**  
+  Clearly defined areas make it easy to refine or adapt aspects independently. Compliance changes occur seamlessly in Governance, while technological advancements smoothly impact Design and Configuration without unnecessary disruption.
+
+- **Continuous Improvement:**  
+  Provides built-in feedback loops through Governance, especially via learning and adoption. Employee experiences and evolving organizational needs continually inform policy and design updates, keeping the workplace relevant and effective.
+
+By integrating these structured elements, the organization can effectively fulfill the nine foundational pillars (*Anytime, Anywhere, Any Device, Secure, Compliance, Ease of Mind*, etc.) and transform a strong vision into a sustainable, people-focused, and future-ready reality.
+
+---
+
+
 
 # Introduction to the Governance, Design and Configuration Framework
 
@@ -144,14 +167,13 @@ Each service contributes directly to one or more of the nine workplace pillars, 
 The services include:
 
 - **Identity & Access** – Ensuring that the right people have access to the right resources, based on trust, role, and need.  
-- **Security & Protection** – Making security invisible but ever-present, protecting people and information without hindering flow.  
-- **Compliance & Trust** – Helping the organization act responsibly and transparently by meeting internal and external expectations by design.  
+- **Security** – Making security invisible but ever-present, protecting people and information without hindering flow.  
+- **Compliance** – Helping the organization act responsibly and transparently by meeting internal and external expectations by design.  
 - **Connectivity** – Enabling employees to work and collaborate from anywhere, securely and seamlessly.  
-- **Endpoint Experience** – Supporting people on any device, with smooth performance and the right balance of freedom and control.  
+- **Endpoint** – Supporting people on any device, with smooth performance and the right balance of freedom and control.  
 - **Communication** – Facilitating effortless and secure communication across teams, time zones, and boundaries.  
 - **File & Content Sharing** – Making information easy to find, secure to share, and safe to manage throughout its lifecycle.  
 - **Collaboration** – Allowing people to co-create, brainstorm, and work together in real time, asynchronously or synchronously.  
-- **Printing & Output** – Offering consistent and secure ways to produce and access physical information when needed.  
 - **Learning & Adoption** – Supporting people in embracing new ways of working through guidance, community, and continuous learning.
 
 ---
