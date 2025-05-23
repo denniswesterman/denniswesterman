@@ -7,7 +7,7 @@ This creates an environment where employees can thrive, collaboration becomes se
 # The Workplace: A Foundation of Nine Pillars
 
 <p align="center">
-  <img src="https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png" alt="A Foundation of Nine Pillars" width="400" />
+  <img src="https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png" alt="A Foundation of Nine Pillars" width="500" />
 </p>
 
 <br>
