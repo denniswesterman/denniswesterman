@@ -4,7 +4,7 @@ The strength of this workplace vision lies in the combination of **flexibility, 
 
 This creates an environment where employees can thrive, collaboration becomes second nature, and secure work is possible anytime, anywhere. It is more than just a physical space; it is a way of working that empowers organizations to fulfill their mission more effectively, both now and in the future.  
 
-# The Workplace: A Foundation of Nine Pillars
+# **The Workplace: A Foundation of Nine Pillars**
 
 <p align="center">
   <img src="https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png" alt="A Foundation of Nine Pillars" width="500" />
@@ -12,16 +12,24 @@ This creates an environment where employees can thrive, collaboration becomes se
 
 <br>
 
-The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, Any Device"**, complemented by six additional core principles. Together, these pillars create an optimal environment where productivity, security, and creativity seamlessly converge:  
+The workplace is built on nine key pillars, summarized as **"Anytime, Anywhere, Any Device"**, complemented by six additional core principles. Together, these pillars create an optimal environment where productivity, security, and creativity seamlessly converge:
 
 - **Anytime (Flexible & Timeless):** Work without unnecessary restrictions, offering employees with flexible workplaces complete freedom, as well as empowering shift-based employees to manage their tasks effectively within structured schedules.
+
 - **Anywhere (Seamlessly Accessible):** Enable secure and reliable access from any location, whether at home, in the office, or on the go, maintaining flexibility without compromising security or ease of use.
+
 - **Any Device (Flexible by Design):** Provide effortless and secure connectivity across laptops, tablets, or smartphones, allowing employees to comfortably use the device they prefer most.
-- **Productive (Empowering & Efficient):** Streamline tasks and workflows, enhancing efficiency so employees achieve their goals with clarity, confidence, and ease. 
+
+- **Productive (Empowering & Efficient):** Streamline tasks and workflows, enhancing efficiency so employees achieve their goals with clarity, confidence, and ease.
+
 - **Creative (Inspiring Innovation):** Foster fresh ideas and collaboration, nurturing an environment where employees feel encouraged to think innovatively and without limits.
+
 - **Secure (Uncompromising Security):** Integrate proactive protection seamlessly into daily tasks, safeguarding people and data while maintaining a trusted yet unobtrusive presence.
+
 - **Compliance (Reliable & Seamless):** Ensure effortless adherence to internal standards and external regulations, helping employees feel confident and supported without added complexity.
+
 - **Ease of Mind (Seamless & Supportive):** Deliver a unified, intuitive user experience, enabling effortless access to necessary resources across any platform, application, or device.
+
 - **Inclusive (Accessible & Equitable):** Design thoughtfully for everyone, actively welcoming diversity, and ensuring each employee feels genuinely valued, supported, and included.
 
 This approach ensures a workplace that is not only functional and secure but also empowering, adaptable, and ready for the future.
@@ -29,6 +37,7 @@ This approach ensures a workplace that is not only functional and secure but als
 ---
 
 <br>
+
 
 # **From Vision to Strategy**  
 
