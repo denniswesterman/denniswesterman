@@ -2,7 +2,7 @@
 
 The strength of this modern workplace vision lies in one core belief: **people come first,** not technology. In an era where technology evolves rapidly and employee expectations continuously shift, it’s essential to prioritize human values such as **flexibility, simplicity, and trust**.
 
-This vision creates an environment in which employees can perform at their best, collaboration becomes second nature, and security is assured—regardless of time or location. It goes beyond physical spaces or digital solutions; it’s a new way of working that enables organizations to achieve their goals more effectively, both now and in the future.
+This vision creates an environment in which employees can perform at their best, collaboration becomes second nature, and security is assured, regardless of time or location. It goes beyond physical spaces or digital solutions, offering a new way of working that enables organizations to achieve their goals more effectively, both now and in the future.
 
 
 # **The Workplace: A Foundation of Nine Pillars**
