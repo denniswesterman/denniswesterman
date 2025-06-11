@@ -102,7 +102,7 @@ Configuration transforms designs into tangible daily experiences, ensuring smoot
 
 Today's workplace focuses not only on tools but also on the meaningful experiences and outcomes they enable. Functional services support core employee needs like connecting, contributing, and growing, aligning directly with the workplace pillars.
 
-Services include Identity & Access, Security, Compliance, Connectivity, Endpoint Experience, Communication, File & Content Sharing, Collaboration, and Learning & Adoption.
+Services include Identity & Access Management, Security, Compliance, Connectivity, Endpoint, and Learning & Adoption.
 
 ## **Governance**
 
