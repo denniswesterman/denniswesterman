@@ -5,7 +5,10 @@ The core strength of our modern workplace vision comes from one fundamental beli
 This vision fosters an environment where employees thrive, collaboration feels effortless, and security is naturally integrated, regardless of time or place. It transcends physical and digital boundaries, providing a dynamic way of working that helps organizations achieve their goals today and remain adaptable for the future.
 
 # **The Workplace: A Foundation Built on Nine Pillars**
-&lt;p align="center"&gt; &lt;img src="https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A\_FOUNDATION\_OF\_NINE\_PILLARS\_NO\_TITLE.png" alt="A Foundation of Nine Pillars" width="500" /&gt;&lt;/p&gt;
+<p align="center">
+  <img src="https://github.com/denniswesterman/denniswesterman/blob/ba3fb8612c3638317edb037f56f7f7fb3e7c62bb/workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png" alt="A Foundation of Nine Pillars" width="500" />
+</p>
+
 The workplace rests upon nine foundational pillars, summed up as **"Anytime, Anywhere, Any Device"**, and complemented by six additional core principles. Together, these pillars form the optimal workplace where productivity, security, and creativity naturally blend:
 
 - **Anytime (Flexible & Unrestricted):** Work without unnecessary constraints, empowering both office-based and shift-based employees to manage their tasks effectively within their preferred schedules.
