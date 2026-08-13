@@ -6,427 +6,306 @@
 
 **CONTEXT · WORKFLOW · GOVERNANCE · PORTABILITY**
 
-**GitHub-editie · gebaseerd op publicatieversie 1.2 · 11 augustus 2026**
+**Toegankelijke GitHub-editie · publicatieversie 1.2 · 11 augustus 2026**
 
 </div>
 
 ---
 
-## Over deze publicatie
+## De kern in één minuut
 
-Veel AI-initiatieven beginnen met een model, een prompt en een koppeling naar bedrijfsdata. Daarmee kan snel een demonstratie worden gemaakt, maar nog geen duurzaam bestuurbaar systeem. Zodra meerdere teams, bronnen, modellen en publicatiekanalen betrokken raken, ontstaan vragen die niet door het model zelf kunnen worden opgelost:
+AI kan in korte tijd overtuigende teksten, analyses en adviezen produceren. De echte uitdaging begint wanneer een organisatie moet kunnen uitleggen **waarom** een resultaat tot stand kwam, **welke informatie** is gebruikt, **welke regels** golden en **wie** het resultaat heeft beoordeeld.
 
-- Welke context en policy golden voor deze uitvoering?
-- Wie bepaalde welke bronnen wel en niet mochten worden gebruikt?
-- Welk tussenresultaat is gevalideerd?
-- Wie heeft de concrete output goedgekeurd?
-- Kan dezelfde werkwijze met een ander model, andere cloud of lokale runtime worden herhaald?
-- Welk bewijs bestaat wanneer een publicatie moet worden verklaard, hersteld of teruggedraaid?
+Veel AI-initiatieven starten met een model, een prompt en toegang tot bedrijfsinformatie. Dat is voldoende voor een experiment, maar nog niet voor een betrouwbaar onderdeel van de bedrijfsvoering.
 
-Het **Universeel Context Fundament (UCF)** maakt deze vragen onderdeel van de architectuur. Het organiseert context, beleid, workflow, uitvoering en bewijs rond AI. Het model is daarin geen eigenaar van betekenis, maar een vervangbare uitvoerder achter een gecontroleerde adapter.
+Het **Universeel Context Fundament (UCF)** brengt daarom niet het AI-model, maar de gecontroleerde context en workflow centraal onder beheer.
 
-> **Kernboodschap:** UCF maakt niet het model, maar de gecontroleerde context en workflow tot het duurzame fundament van AI-toepassingen.
+> **Kernboodschap:** niet het model, maar de gecontroleerde context en workflow vormen het duurzame fundament van een AI-toepassing.
 
-De betekenis van het werk, de selectie van bronnen, de kwaliteitscriteria, de menselijke verantwoordelijkheid en het publicatiebesluit blijven eigendom van de organisatie.
+Het model voert een taak uit. De organisatie blijft eigenaar van het doel, de gebruikte bronnen, de kwaliteitscriteria, de menselijke beoordeling en het besluit om een resultaat wel of niet te publiceren.
 
 ## Waarom een contextfundament nodig is
 
-### Applicatiegebonden context is moeilijk bestuurbaar
+Binnen organisaties bevindt relevante context zich vaak verspreid over documenten, beleidsstukken, kennisbanken, tickets, gesprekken, applicaties en persoonlijke werkwijzen. Dat een AI-toepassing deze informatie technisch kan bereiken, betekent nog niet dat voor een specifieke opdracht ook de juiste informatie wordt gebruikt.
 
-Context ontstaat vaak verspreid over documenten, prompts, configuraties, tickets, gesprekken, kennisbanken en persoonlijke werkwijzen. Een toepassing kan deze bronnen technisch bereiken, maar bereikbaarheid bewijst niet dat de juiste bron, versie of selectie voor een specifieke taak is gebruikt.
+Zonder een duidelijke structuur ontstaan al snel fundamentele vragen:
 
-Zonder expliciete selectie en versionering is achteraf moeilijk vast te stellen waarom een resultaat tot stand kwam. Wanneer context en workflow bovendien in één providerstudio, connector of automationflow worden verborgen, verandert een providerwissel in een reconstructieproject.
+- Is de gebruikte bron actueel en goedgekeurd?
+- Is informatie gebruikt die voor dit doel niet nodig of niet toegestaan was?
+- Welke regels en kwaliteitscriteria golden tijdens de uitvoering?
+- Is het resultaat alleen gegenereerd, of ook daadwerkelijk beoordeeld?
+- Wie heeft toestemming gegeven voor publicatie?
+- Kan dezelfde werkwijze later met een ander model worden herhaald?
 
-### Mechanische uitvoering en inhoudelijke beoordeling zijn verschillend
+Wanneer context, prompts, regels en reviewstappen bovendien verborgen raken in één AI-platform of leverancier, wordt een overstap naar een andere oplossing onnodig complex. De organisatie bezit dan wel haar data, maar niet langer volledig de samenhang en werkwijze waarmee die data wordt gebruikt.
 
-Software kan bestanden verplaatsen, schema’s controleren, hashes berekenen en een vaste overgang uitvoeren. Software kan niet zelfstandig bepalen of een beleidsinterpretatie bestuurlijk acceptabel is of dat een risico door een bevoegde eigenaar mag worden aanvaard.
+UCF verlegt daarom de centrale vraag van:
 
-UCF maakt daarom onderscheid tussen:
+> **Welke informatie kan het model bereiken?**
 
-- deterministische techniek die herhaalbaar kan worden uitgevoerd;
-- expliciete gates waarvoor eigenaarschap, bewijs of menselijke review nodig is.
+naar:
 
-### Context wordt een beheerd product
+> **Welke context is voor deze opdracht expliciet goedgekeurd?**
 
-Binnen UCF wordt context behandeld als een beheerd product met minimaal:
+## Wat het Universeel Context Fundament is
 
-- een eigenaar;
-- een versie of momentopname;
-- herkomst en provenance;
-- classificatie en retentie;
-- een goedgekeurd gebruiksdoel;
-- een minimale, taakgerichte selectie;
-- een manier om de bron in output herkenbaar of citeerbaar te houden.
+UCF is een architectuurpatroon en een manier van werken voor AI-processen die controleerbaar, herhaalbaar en overdraagbaar moeten zijn.
 
-De centrale vraag verschuift daarmee van **“welke data kan het model technisch zien?”** naar **“welke context is voor deze taak expliciet goedgekeurd?”**
+Voor ieder onderwerp, product, proces of besluitvormingsvraagstuk kan een afzonderlijke **workspace** worden ingericht. Zo’n workspace is te vergelijken met een gecontroleerd digitaal dossier. Daarin worden onder meer vastgelegd:
 
-## Zes ontwerpdoelen
+- het doel van de opdracht;
+- de eigenaar en verantwoordelijke reviewer;
+- de toegestane en uitgesloten bronnen;
+- de regels voor data, kwaliteit en publicatie;
+- de stappen die moeten worden doorlopen;
+- de gemaakte tussenresultaten en beoordelingen;
+- het uiteindelijke publicatiebesluit en het bijbehorende bewijs.
 
-UCF is gebouwd rond zes samenhangende doelen.
+Hierdoor blijft de betekenis van het proces begrijpelijk, ook wanneer het uitvoerende model, de leverancier, de applicatie of het betrokken team verandert.
 
-### 1. Context-first
+## Vier vaste uitgangspunten
 
-Doel, data boundary, policies en bronnen worden vastgesteld vóór generatie. Het model voert een goedgekeurde stap uit; het bepaalt niet zelfstandig welke organisatiecontext geldig is.
+| Uitgangspunt | Betekenis |
+|---|---|
+| **Context** | Alleen doelgerichte, goedgekeurde en herkenbare informatie wordt voor een opdracht gebruikt. |
+| **Workflow** | Iedere uitvoering volgt duidelijke stappen met een herkenbaar begin, resultaat en controlemoment. |
+| **Governance** | Eigenaarschap, regels, beoordeling, uitzonderingen en publicatiebesluiten zijn expliciet vastgelegd. |
+| **Portability** | Modellen, leveranciers en technische omgevingen kunnen veranderen zonder de betekenis van het proces opnieuw op te bouwen. |
 
-### 2. Expliciete contracten
+Deze vier uitgangspunten horen bij elkaar. Context zonder workflow is moeilijk te controleren. Workflow zonder governance mist verantwoordelijkheid. Governance zonder portability kan alsnog volledig afhankelijk worden van één leverancier.
 
-Iedere workflowstage benoemt vereiste input, toegestane context, verwachte output en een gate. Interfaces tussen context, features, UI, database en providers zijn versiegebonden. Ontbrekende input of capabilities leiden tot een zichtbare stopconditie.
+## Context als beheerd onderdeel van de organisatie
 
-### 3. Zichtbare tussenresultaten
+Binnen UCF is context geen toevallige verzameling informatie die aan een prompt wordt toegevoegd. Context wordt behandeld als een beheerd onderdeel met een duidelijk gebruiksdoel.
 
-Generation-output blijft een **intermediate** totdat validation is geslaagd. Een technisch succesvol modelantwoord is niet automatisch een publicatie. Een concept kan worden geïnspecteerd, afgewezen, vergeleken of opnieuw uitgevoerd zonder het eerdere bewijs te overschrijven.
+Van iedere relevante bron moet bekend zijn:
 
-### 4. Vendor-onafhankelijkheid
+- wie verantwoordelijk is voor de inhoud;
+- welke versie of momentopname is toegestaan;
+- waar de informatie vandaan komt;
+- welke gevoeligheid en bewaartermijn gelden;
+- voor welke opdrachten de bron geschikt is;
+- welk deel minimaal noodzakelijk is;
+- hoe de bron later herkenbaar of citeerbaar blijft.
 
-Model- en systeemproviders worden via adapters verbonden. De workspace bevat geen verplichte provider, klantendpoint of credential. Dezelfde context- en governanceketen kan daardoor met verschillende uitvoerders worden gebruikt.
+Ook het uitsluiten van informatie is belangrijk. Wanneer een bron verouderd, te gevoelig of niet noodzakelijk is, wordt niet alleen besloten deze niet te gebruiken; de reden van uitsluiting wordt eveneens zichtbaar gemaakt.
 
-### 5. Audit en rollback
+Dat ondersteunt dataminimalisatie, voorkomt onbedoeld gebruik en maakt achteraf duidelijk waarom een resultaat op een bepaalde informatiebasis tot stand kwam.
 
-Selecties, versies, hashes, reviews, uitvoeringsmetadata en publicatiebesluiten blijven traceerbaar. Iedere publicatie verwijst naar de gevalideerde run en naar een herstel- of rollbackmogelijkheid.
+## Van opdracht naar publicatie in vijf stappen
 
-### 6. Portable continuïteit
+Een UCF-workflow bestaat uit vijf vaste stappen. Iedere stap heeft een eigen doel en een duidelijk controlemoment.
 
-Artifacts worden immutable gepubliceerd en exact gepind. Een consumer kan na installatie vanaf geverifieerde lokale **last-known-good** bytes werken. Uitval van een centrale store hoeft een bestaande toepassing niet stil te leggen.
-
-## De UCF-workspace als basiseenheid
-
-Een workspace vertegenwoordigt één onderwerp, product, proces of besluitvormingsstroom. De generieke startstructuur bevat nog geen klant, vendor, model of deploymenttarget. Bindingen worden pas toegevoegd nadat doel, eigenaarschap en grenzen zijn beoordeeld.
-
-Een logische workspace bestaat uit:
-
-```text
-workspace/
-  WORKSPACE_MANIFEST.md
-  WORKFLOW_CONTEXT.md
-  references/
-  policies/
-  stages/
-    01_intake/STAGE_CONTRACT.md
-    02_context_selection/STAGE_CONTRACT.md
-    03_generation/STAGE_CONTRACT.md
-    04_validation/STAGE_CONTRACT.md
-    05_publish/STAGE_CONTRACT.md
-  adapters/
-  runs/
-  features/
-  ui/
+```mermaid
+flowchart LR
+    A[1. Intake] --> B[2. Contextselectie]
+    B --> C[3. Generatie]
+    C --> D[4. Validatie]
+    D --> E[5. Publicatie]
+    D -->|Aanpassing nodig| B
 ```
 
-### Workspace manifest
+### 1. Intake
 
-Het manifest legt identiteit en governance vast: doel, owner, reviewstatus, bindings en de artifacts die bij de workspace horen. Nieuwe workspaces beginnen bewust zonder impliciete provider- of databinding.
+De workflow begint niet met een prompt, maar met een duidelijke opdracht. Het gewenste resultaat, de doelgroep, de grenzen, de dataclassificatie, de verantwoordelijke eigenaar, de reviewer en de voorwaarden om te stoppen worden vooraf bepaald.
 
-### Workflow context
+Zolang deze informatie niet compleet en beoordeeld is, begint de generatie niet.
 
-Workflowcontext beschrijft routing, data boundary en model boundary. Daarmee blijft de betekenis van de workflow onafhankelijk van operationele providerconfiguratie.
+### 2. Contextselectie
 
-### References
+Vervolgens wordt bepaald welke bronnen en regels voor deze concrete opdracht gelden. Alleen goedgekeurde en noodzakelijke informatie wordt geselecteerd. Verouderde, irrelevante of te gevoelige bronnen worden uitgesloten en de reden daarvan blijft vastgelegd.
 
-References zijn goedgekeurde bronnen waarop een run mag steunen. Zij worden met versie-identiteit en hash gepind. Context selection registreert zowel geselecteerde als afgewezen kandidaatbronnen, inclusief reden.
+Hiermee wordt voorkomen dat een model standaard toegang krijgt tot alles wat technisch beschikbaar is.
 
-### Policies
+### 3. Generatie
 
-Policies zijn afzonderlijk reviewbare regels voor onder andere dataminimalisatie, bronvereisten, verboden gegevens, onzekerheidsmarkering, tone of voice, juridische review en publicatieclassificatie. Een policy is geen verborgen promptregel.
+Het gekozen AI-model ontvangt uitsluitend de goedgekeurde opdracht, context en regels. Het resultaat is een **concept** en nog geen publicatie.
 
-### Stagecontracten
+Een technisch succesvolle modelrespons betekent dus niet automatisch dat de inhoud juist, volledig of toegestaan is. Iedere nieuwe poging of uitvoering blijft herkenbaar als een afzonderlijk resultaat.
 
-Stagecontracten bepalen wanneer een stap mag beginnen, welke input is toegestaan, welke output wordt verwacht en welk bewijs nodig is om door te gaan. Een stage kan door software, een mens of een combinatie worden uitgevoerd zolang het contract wordt gerespecteerd.
+### 4. Validatie
 
-### Adapters
+Het concept wordt gecontroleerd aan de hand van vooraf vastgelegde kwaliteitscriteria. Dat kan bestaan uit automatische controles, broncontrole, feitencontrole, toetsing op verboden gegevens en menselijke beoordeling.
 
-Adapters verbinden de neutrale workflow met modellen, identityproviders, databases, documentplatformen en andere systemen. Credentials, endpoints en omgevingsidentiteiten blijven consumerconfiguratie en worden niet in portable packages opgenomen.
+De reviewer beoordeelt altijd een concreet resultaat dat gekoppeld is aan een concrete set bronnen en regels. Wordt het resultaat afgewezen, dan kan een nieuwe contextselectie of een nieuwe generatie volgen. Het afgewezen concept blijft beschikbaar als onderdeel van het bewijs, maar mag niet worden gepubliceerd.
 
-### Runs
+### 5. Publicatie
 
-Een run is één concrete uitvoering. De run bewaart intake, contextpins, parameters, intermediates, validatiebewijs, reviewbesluit en publicatierecord. Secrets en volledige processomgeving horen niet in de runledger.
+Alleen een gevalideerd en expliciet goedgekeurd resultaat mag naar het afgesproken publicatiekanaal. Daarbij blijft zichtbaar welk resultaat is gepubliceerd, waarop de goedkeuring was gebaseerd en hoe naar een eerdere geldige versie kan worden teruggekeerd wanneer later een fout wordt ontdekt.
 
-## De workspace als leesbare uitvoeringsstructuur
+**Gegenereerd is dus niet hetzelfde als goedgekeurd. Goedgekeurd is niet hetzelfde als gepubliceerd.**
 
-Een UCF-workspace is meer dan een verzameling bestanden. De ordening zelf draagt betekenis. Een mens of agent moet zonder verborgen sessiekennis kunnen afleiden:
+## Menselijke verantwoordelijkheid blijft centraal
 
-1. Waar ben ik, wat is het doel en wie is eigenaar?
-2. Welk werkcontract geldt en welke input mag worden gelezen?
-3. Welke output en welke gate of menselijke beoordeling worden verwacht?
-4. Welke artifacts en registraties bewijzen de actuele status?
+UCF automatiseert waar techniek voorspelbaar en herhaalbaar kan ondersteunen. Denk aan het controleren van verplichte informatie, het toepassen van vaste stappen, het bewaken van grenzen en het vastleggen van bewijs.
 
-Deze **cold-startproef** voorkomt dat overdraagbaarheid afhankelijk blijft van mondelinge toelichting, een verborgen prompt of een volledige scan van alle beschikbare context.
+De inhoudelijke verantwoordelijkheid blijft echter bij mensen. Een systeem kan niet zelfstandig bepalen of een beleidsinterpretatie bestuurlijk acceptabel is, of een risico mag worden aanvaard, of een advies klaar is voor externe publicatie.
 
-Vier regels ondersteunen de leesbaarheid:
+Daarom blijven minimaal de volgende keuzes bij de organisatie:
 
-- volgorde maakt sequencing zichtbaar;
-- hiërarchie begrenst context;
-- een kleine ingang routeert zonder inhoudelijke payload te dupliceren;
-- artifacts maken voortgang en bewijs zichtbaar.
+- het doel van de opdracht;
+- de keuze en geschiktheid van bronnen;
+- de betekenis van beleid en kwaliteitscriteria;
+- de acceptatie van onzekerheden en risico’s;
+- de uiteindelijke goedkeuring en publicatie.
 
-Stabiele context — zoals policies, definities, schema’s en templates — blijft gescheiden van runartefacten zoals intake, intermediates, reviewbewijs en publicaties.
+UCF vervangt deze rollen niet. Het maakt hun verantwoordelijkheid juist zichtbaar en uitvoerbaar.
 
-## Zeven architectuurlagen
+## Praktijkvoorbeeld: een gecontroleerde beleidsnotitie
 
-UCF bestaat logisch uit zeven lagen:
+Stel dat een beleidsafdeling een besluitnotitie wil laten voorbereiden over energiebesparende maatregelen voor kantoorgebouwen.
 
-| Laag | Verantwoordelijkheid | Duurzaam object |
-|---|---|---|
-| **Identiteit en doel** | Workspace-identiteit, purpose, owner en reviewstatus | Workspace-manifest |
-| **Context** | References, selectie, versies en provenance | Contextbundle en contextpins |
-| **Beleid** | Data-, kwaliteits- en publicatieregels | Policysets |
-| **Workflow** | Stages, inputs, outputs, gates en transitions | Stagecontracten |
-| **Uitvoering** | Provider- en systeemadapters achter capabilities | Adapterbindingen |
-| **Bewijs** | Runs, hashes, reviews, audit en rollback | Run- en publicatieledger |
-| **Distributie** | Ondertekende, immutable releases en exacte pins | Release-manifest |
+De notitie moet aansluiten op organisatiedoelen, relevante regelgeving en interne meetgegevens. Persoonsgegevens en ruwe sensorgegevens mogen niet naar het model. Juridische beoordeling is verplicht voordat de notitie wordt gepubliceerd.
 
-Deze lagen maken zichtbaar wat de organisatie zelf bezit en welke technische bindings pas in een consumeromgeving worden ingevuld.
+Binnen UCF verloopt dit als volgt:
 
-## End-to-end door vijf stages
+1. Het doel, de doelgroep, de eigenaar, de juridische reviewer en de gegevensgrenzen worden vooraf vastgelegd.
+2. Actuele organisatiedoelen, een juridisch gereviewde samenvatting van regelgeving en geaggregeerde energiegegevens worden geselecteerd.
+3. Ruwe sensordata wordt uitgesloten omdat deze niet noodzakelijk is. Een oude conceptstrategie wordt uitgesloten omdat een nieuwe goedgekeurde versie bestaat.
+4. Het model maakt uitsluitend met de geselecteerde bronnen een conceptnotitie.
+5. De tekst wordt gecontroleerd op bronverwijzingen, persoonsgegevens, aannames, onzekerheden en juridische juistheid.
+6. Alleen de exact beoordeelde versie wordt gepubliceerd.
 
-### Stage 1 — Intake
+Dit voorbeeld laat zien dat UCF veel meer is dan promptbeheer. Het beheert de volledige beslisketen rondom de prompt: van opdracht en bronselectie tot beoordeling en publicatie.
 
-Intake begint met een gereviewde probleemstelling, een benoemde owner en reviewer, dataclassificatie, kwaliteitscriteria, grenzen en stopcondities. Generation is verboden zolang de vereiste intake-informatie niet compleet en beoordeeld is.
+## Vendor-onafhankelijkheid zonder verlies van controle
 
-Minimale intake bevat:
+Een organisatie kan dezelfde beleidsworkflow eerst via een goedgekeurd cloudmodel uitvoeren en later voor vertrouwelijke toepassingen een lokaal model inzetten.
 
-- gewenst besluit of resultaat;
-- beoogde gebruiker en doelgroep;
-- grenzen en uitsluitingen;
-- classificatie en verboden gegevens;
-- owner en onafhankelijke reviewer;
-- kwaliteitscriteria en publicatieklasse;
-- voorwaarden waaronder de workflow moet stoppen.
+Binnen UCF blijven daarbij gelijk:
 
-### Stage 2 — Context selection
+- het doel en eigenaarschap;
+- de geselecteerde context;
+- de gegevens- en beleidsgrenzen;
+- de vijf workflowstappen;
+- de kwaliteitscontroles;
+- de menselijke beoordeling;
+- de manier waarop bewijs en publicatie worden vastgelegd.
 
-Context selection ontvangt de goedgekeurde intake en kandidaat-references en policies. Exacte versies worden geselecteerd en gepind; afgewezen context wordt met reden geregistreerd.
+Alleen de technische verbinding met het uitvoerende model verandert.
 
-Dit is de belangrijkste dataminimalisatiestap. Niet alle technisch bereikbare informatie wordt naar een model gestuurd. Alleen de taakgerichte, goedgekeurde en lokaal beschikbare contextset mag verder.
+Vendor-onafhankelijkheid betekent niet dat verschillende modellen exact hetzelfde antwoord zullen geven. Het betekent dat de organisatie haar eigen context, werkwijze en beoordelingskader behoudt en resultaten van verschillende modellen op een vergelijkbare manier kan beoordelen.
 
-### Stage 3 — Generation
+De leverancier levert de uitvoerende motor. De organisatie blijft eigenaar van betekenis, kwaliteit en verantwoordelijkheid.
 
-Generation ontvangt de gepinde workflowcontext en goedgekeurde parameters. De provideradapter krijgt uitsluitend de geselecteerde context en de operatie die het contract toestaat.
+## UCF als onderdeel van een complete toepassing
 
-De output is een immutable intermediate met provenance en beperkte, niet-geheime uitvoeringsmetadata. Iedere retry of alternatieve modelrun krijgt een eigen identiteit en overschrijft een eerdere output niet.
+Een AI-toepassing bestaat uit meer dan alleen context. Zij heeft ook functionaliteit, een gebruikerservaring en vaak een database nodig. Binnen het beschreven architectuurpatroon blijven vier onderdelen bewust van elkaar gescheiden:
 
-### Stage 4 — Validation
+| Onderdeel | Verantwoordelijkheid |
+|---|---|
+| **UCF** | Doel, context, bronnen, regels, workflow, beoordeling en bewijs. |
+| **Feature** | De concrete functionaliteit die een gebruiker kan uitvoeren. |
+| **UI** | De manier waarop de gebruiker de toepassing ziet en bedient. |
+| **Database** | De structuur waarin toepassingsgegevens gecontroleerd worden opgeslagen en ontwikkeld. |
 
-Validation ontvangt de concrete generation-output, toepasselijke policies en kwaliteitschecks. De stage kan combineren:
+Door deze onderdelen afzonderlijk te beheren, kan een ontwerpwijziging niet ongemerkt de betekenis van een workflow veranderen. Context hoeft niet in programmacode te worden verstopt en een databasewijziging blijft afzonderlijk beoordeelbaar.
 
-- schema-validatie;
-- bron- en citation checks;
-- controles op verboden data;
-- feitencontrole;
-- onzekerheidsmarkering;
-- menselijke review.
+De onderdelen kunnen onafhankelijk worden verbeterd, maar worden alleen samen gebruikt in een combinatie die bewust is gecontroleerd en goedgekeurd.
 
-Een incomplete of mislukte check blokkeert publication. De reviewer keurt niet een abstracte workflow goed, maar een exacte outputdigest gekoppeld aan concrete contextpins en policyversies.
+## Wat UCF organisaties oplevert
 
-### Stage 5 — Publish
+### Uitlegbaarheid
 
-Publish ontvangt alleen een goedgekeurd validation-resultaat en een expliciete targetbinding. De output bestaat uit een immutable publicatierecord, audit event en rollbackreferentie.
+Een organisatie kan reconstrueren welk doel, welke bronnen, welke regels, welk modelresultaat en welke beoordeling bij een publicatie hoorden.
 
-Aanwezigheid van een bestand of de status `generated` is nooit voldoende om publicatie af te leiden.
+### Verantwoord datagebruik
 
-## De control loop
+Niet alle bereikbare informatie wordt standaard gebruikt. Alleen de noodzakelijke en goedgekeurde context gaat door naar de AI-uitvoering.
 
-De workflow is sequentieel, maar niet uitsluitend lineair. Validation kan leiden tot een nieuwe contextselectie of generation-run. Een gewijzigde bron creëert een nieuwe versie. Een publicatiefout kan tot rollback leiden zonder het bewijs van eerdere runs te verwijderen.
+### Betere kwaliteitsbeheersing
 
-Iedere iteratie wordt een nieuwe traceerbare run. Intermediates worden niet stilzwijgend overschreven.
+Concept, beoordeling en publicatie blijven gescheiden. Daardoor wordt een overtuigend geformuleerd AI-resultaat niet automatisch als goedgekeurde waarheid behandeld.
 
-## Vier zelfstandig publicerende peers
+### Duidelijk eigenaarschap
 
-Een complete AI-toepassing bestaat uit meer dan context. Zij heeft uitvoerbare logica, een gebruikersinterface en vaak een databaseschema nodig. UCF werkt daarom samen met drie andere zelfstandig publicerende peers.
+Voor iedere workflow is zichtbaar wie eigenaar is, wie beoordeelt en wie publicatie mag toestaan.
 
-| Peer | Bezit | Publiceert |
-|---|---|---|
-| **Feature** | Uitvoerbare logica, routes, services en capability-eisen | Feature-release |
-| **UI** | Design tokens, componenten, views, states en assets | Design-release |
-| **UCF** | Context, policies, references en stages | Context-release |
-| **DB** | Migraties, grants, schemabeschrijving en isolatietests | Database-release |
+### Minder afhankelijkheid van leveranciers
 
-De vier releases worden onafhankelijk gereviewd, ondertekend en gepind. Een consumer combineert alleen exacte versies die samen zijn gevalideerd.
+Modellen, clouds en technische oplossingen kunnen veranderen zonder dat doel, bronnen, regels en reviewproces opnieuw moeten worden gereconstrueerd.
 
-### Feature-peer
+### Continuïteit en herstel
 
-Een feature is een zelfstandig releaseproduct met manifest, entrypoints, routes, views, assets, contracten, services, health en gedeclareerde capabilities. De feature importeert geen concrete consumerclasses en krijgt geen algemene service locator, raw filesystem, willekeurig netwerk of raw databasehandle.
+Een nieuwe versie vervangt de bestaande werkwijze pas nadat deze volledig is gecontroleerd. Bij fouten kan de vorige geldige situatie beschikbaar blijven of worden hersteld.
 
-Na installatie vormt de consumer een lokale feature-capsule met:
+### Hergebruik zonder verlies van controle
 
-- de geverifieerde featurecode;
-- exact gepinde UI-release;
-- exact gepinde context-release;
-- exact gepinde database-release;
-- lokale locks en receipts die de composite bewijzen.
+Goedgekeurde regels, werkwijzen en technische verbindingen kunnen worden hergebruikt wanneer hun doel en gegevensgrenzen overeenkomen. Nieuwe doelen of gevoeligere informatie krijgen een eigen workspace en beoordeling.
 
-### UI-peer
+## Vertrouwen ontstaat door bewijs
 
-UI wordt behandeld als een zelfstandig immutable releaseproduct. Design tokens, componenten, views, states, accessibility-eisen, CSS en JavaScript worden samen gereviewd en lokaal in de feature gematerialiseerd.
+Een AI-resultaat is niet betrouwbaar alleen omdat het uit een bekende applicatie, cloud of URL komt. Vertrouwen ontstaat door een combinatie van:
 
-Een designupdate verandert een actieve feature niet automatisch. Een nieuwe exacte UI-pin wordt eerst met dezelfde featurecode, context en database getest.
+- een goedgekeurd doel;
+- herkenbare en vastgelegde bronnen;
+- expliciete gegevens- en beleidsgrenzen;
+- een controleerbare workflow;
+- een concrete beoordeling;
+- een aantoonbaar publicatiebesluit;
+- een mogelijkheid tot herstel.
 
-### DB-peer
+UCF verbindt deze onderdelen tot één samenhangende keten. Daardoor kan een organisatie niet alleen laten zien **wat** er is gepubliceerd, maar ook **waarom** dat resultaat gepubliceerd mocht worden.
 
-Database-evolutie blijft niet verborgen in featurecode. Een databasepackage bevat uitsluitend schema, append-only migraties, grants, tests en documentatie. Live data, klantdumps, secrets, backups en vaste productiebindings zijn uitgesloten.
+## Wat UCF niet is
 
-De consumer vertaalt de neutrale schema-identiteit naar een lokaal featureschema met minimale read/write- en eventueel read-onlyrollen. Migraties, grants, isolatietests en feature-health worden transactioneel uitgevoerd. Alleen bij volledig succes volgt commit.
+UCF moet niet worden gepresenteerd als een volledig autonome AI-omgeving waarin agents zonder begrenzing zelfstandig besluiten nemen en acties uitvoeren.
 
-## Publicatie, installatie en activatie
+Het is primair bedoeld voor processen die:
 
-### Immutable publicatie
+- een duidelijk doel en eigenaarschap hebben;
+- in herkenbare stappen kunnen worden uitgevoerd;
+- menselijke of inhoudelijke beoordeling nodig hebben;
+- herhaalbaar en auditbaar moeten zijn;
+- bij fouten moeten kunnen stoppen of terugkeren.
 
-Publishers controleren onder andere:
+UCF garandeert niet dat een model altijd een juist antwoord geeft. Het zorgt ervoor dat het antwoord binnen een gecontroleerde werkwijze wordt gemaakt, beoordeeld en verantwoord.
 
-- veilige relatieve paden;
-- toegestane bestandstypen;
-- manifest- en contractstructuur;
-- capability-eisen;
-- target-neutraliteit;
-- fileledger met pad, grootte en SHA-256;
-- digitale signature;
-- immutable naam- en versie-identiteit.
+UCF vervangt ook niet de inhoudelijke eigenaar, reviewer, modelprovider of beheerorganisatie. Het geeft deze partijen een gezamenlijke en traceerbare structuur om hun verantwoordelijkheid uit te voeren.
 
-Een identieke replay van dezelfde versie is idempotent. Andere bytes onder dezelfde identiteit leveren een conflict.
+## Invoering: begin met één beslisproces
 
-### Preflight
+Een succesvolle invoering begint niet met alle bedrijfsdata en ook niet met een organisatiebrede autonome agent. Kies één herkenbaar proces met een duidelijke bronset, eigenaar, output en bestaande review.
 
-Preflight valideert de volledige composite zonder persistente mutatie. De consumer controleert release-identiteiten, signatures, manifestdigests, alle bestanden, core compatibility, capabilitymatch, contextbinding en gelijkheid van feature- en databaseschema-identiteit.
+Een beleidsnotitie, klantadvies, risicoanalyse of gecontroleerd antwoord op een offerteaanvraag is doorgaans een geschikter startpunt.
 
-### Transactionele activatie
+De invoering kan vervolgens in zeven beheersbare stappen plaatsvinden:
 
-Na preflight worden artifacts naar staging gedownload en opnieuw geverifieerd. Onder een exclusieve featurelock worden databasevoorbereiding, migraties, grants, isolatietests, filesystemswap, routes en health als één herstelbare activatie behandeld.
+1. **Definieer doel en governance.** Benoem doel, eigenaar, reviewer, gegevensclassificatie, gewenste output en stopvoorwaarden.
+2. **Breng context en regels onder beheer.** Bepaal welke bronnen zijn toegestaan, wie eigenaar is en welke versies mogen worden gebruikt.
+3. **Formaliseer de vijf stappen.** Maak per stap duidelijk welke input nodig is, welk resultaat wordt verwacht en wanneer mag worden doorgegaan.
+4. **Verbind een model of systeem.** Kies pas daarna de technische uitvoerder en leg de toegestane voorwaarden vast.
+5. **Voer een succesvolle én een mislukte test uit.** Bewijs niet alleen dat het proces werkt, maar ook dat ontbrekende context, afwijzing of provideruitval publicatie daadwerkelijk blokkeert.
+6. **Maak de werkwijze overdraagbaar.** Zorg dat context, functionaliteit, ontwerp en gegevensstructuur onafhankelijk kunnen veranderen.
+7. **Schaal via gecontroleerd hergebruik.** Hergebruik alleen onderdelen waarvan doel, risico en gegevensgrenzen werkelijk overeenkomen.
 
-Bij een fout:
+## Slot
 
-- wordt de databasetransactie teruggedraaid;
-- gaat de kandidaat naar quarantine;
-- worden vorige files, configuratie en locks hersteld;
-- blijft de vorige last-known-good versie actief.
+Het Universeel Context Fundament maakt de context rondom AI expliciet, bestuurbaar en overdraagbaar. Het scheidt organisatiedoel van modeluitvoering, bronselectie van technische bereikbaarheid, generatie van publicatie en duurzame betekenis van tijdelijke technologie.
 
-Een activatiejournal en receipt ondersteunen recovery wanneer een proces precies rond filesystemswap of databasecommit wegvalt.
+De kracht zit niet in één afzonderlijke maatregel, maar in de samenhang:
 
-## Werken zonder centrale stores
+- een workspace maakt doel en context leesbaar;
+- vaste stappen maken de workflow controleerbaar;
+- adapters maken uitvoerende technologie vervangbaar;
+- versiebeheer en bewijs maken resultaten herhaalbaar;
+- validatie en herstel maken verandering verantwoord.
 
-Na activatie gebruikt een normale request uitsluitend lokale, geverifieerde state voor routes, UI, contextreads en databasetransacties. Stores zijn nodig voor discovery en nieuwe releases, maar niet voor het uitvoeren van een bestaande geldige composite.
+UCF is geen extra laag die snelheid onnodig vertraagt. Het is de laag die ervoor zorgt dat snelheid kan worden **herhaald, uitgelegd en teruggedraaid**.
 
-Een netwerkstoring kan daardoor een update vertragen zonder de actieve toepassing direct te stoppen.
-
-## Vertrouwen, security en datagrenzen
-
-### Vertrouwen zit in bewijs, niet in locatie
-
-Een package is niet vertrouwd omdat het van een bekende URL komt. Vertrouwen ontstaat door een lokale combinatie van:
-
-- toegestane change en review;
-- gepinde publieke sleutel;
-- digitale signature;
-- canonical manifest;
-- fileledger en exacte digests;
-- immutable versie;
-- targetpolicy en capabilitymatch;
-- runtime-health.
-
-### Target-neutraliteit
-
-Portable releasebytes bevatten geen target-id, environmentnaam, lokaal endpoint, credentials, consumer-namespace, vaste schemaprefix of concrete adapterclass. Deze bindings ontstaan pas in de consumer.
-
-### Capability-isolatie
-
-Featurecode vraagt een versiegebonden operatie aan de consumer. De consumer valideert argumenten, scope, identity en autorisatie en roept vervolgens een lokale adapter aan. Ontbreekt een capability, dan volgt een expliciete unavailable-status; er is geen verborgen fallback.
-
-### Database-isolatie
-
-Iedere feature krijgt een eigen schema en minimale rollen. Een runtime role kan geen databases, rollen of andere schemas creëren en krijgt geen toegang tot het schema van een andere feature.
-
-### HTTP- en beheergrens
-
-State-changing routes vereisen authenticatie en CSRF-controle voordat de featurehandler wordt aangeroepen. Diagnostische databaseviews zijn standaard verborgen en worden alleen begrensd en read-only beschikbaar gesteld.
-
-### Secrets
-
-Private signing keys, databasecredentials en providersecrets zijn consumerstate. Zij horen niet in source control, releases, healthresponses, auditcontext of workspacebestanden.
-
-## Audit, continuïteit en herstel
-
-Een complete run verbindt:
-
-- intake-id en goedkeuring;
-- contextversies en digests;
-- policyversies;
-- generationparameters en adapteridentiteit;
-- intermediate outputdigest;
-- validationchecks en evidence;
-- reviewerbesluit;
-- publicatiedigest, targetbinding en rollbackreferentie.
-
-Een bruikbare backup omvat naast databasegegevens ook lokale releases, activatiestatus, trust, locks, targetreports en relevante workspacecontext.
-
-Na succesvolle installatie kan een target een lokaal ondertekend report publiceren met artifactdigests, targetprofielhash, resultaat en niet-geheime diagnostische codes. Delivery kan durable worden uitgevoerd zodat vertraagd bewijs een nieuwere status niet overschrijft.
-
-## Wat UCF wel en niet automatiseert
-
-### Wat UCF expliciet organiseert
-
-UCF biedt het patroon en de technische grenzen voor:
-
-- atomisch scaffoldbare workspaces;
-- manifests en workflowcontext;
-- policy-, reference- en contractstores;
-- contextpublication en immutable releases;
-- stagecontracten en gates;
-- capabilitygrenzen en adapters;
-- run audit en publicatiebewijs;
-- portable composite onboarding;
-- lokale activatie, rollback en last-known-good runtime.
-
-### Wat niet wordt verondersteld
-
-De generieke scaffold kiest geen klant, datasource, model of vendor. Een provider wordt pas operationeel wanneer de consumer een gereviewde adapter aanbiedt.
-
-UCF is geen claim op een volledig autonome multi-agentomgeving. Het is primair sterk voor workflows die sequentieel, reviewbaar, herhaalbaar en auditbaar moeten zijn. Hoogfrequente realtime automation, complexe parallelle agents en onbegrensde autonome tooluitvoering vereisen aanvullende orchestration- en isolationengineering.
-
-> **Eerlijke grens:** UCF standaardiseert de context- en governanceketen. Het vervangt niet de inhoudelijke eigenaar, reviewer, modelprovider of operationele beheerorganisatie.
-
-## Invoering in zeven beheersbare stappen
-
-### 1. Definieer doel en governance
-
-Kies één herkenbaar beslisproces. Benoem owner, reviewer, classificatie, output, grenzen en stopcondities. Bepaal welke beoordelingen menselijk moeten blijven.
-
-### 2. Breng context en policies onder beheer
-
-Inventariseer kandidaatbronnen, maar pin alleen goedgekeurde versies. Documenteer ownership, gevoeligheid, retentie en toegestane use cases. Maak policies afzonderlijk reviewbaar.
-
-### 3. Formaliseer de vijf stages
-
-Definieer per stage exacte input, output, gate en evidence. Houd generation en publication strikt gescheiden.
-
-### 4. Bind een provideradapter
-
-Selecteer provider en model op consumer-niveau. Leg allowlist, regio, retentie, kostenlimiet, timeout, retry en logging vast. Geef alleen noodzakelijke capabilities.
-
-### 5. Draai een golden run en een failure run
-
-Voer één volledig goedgekeurde run uit en archiveer het bewijs. Forceer vervolgens een fout, bijvoorbeeld ontbrekende context, afgewezen validation of provider unavailable. Controleer dat publication wordt geblokkeerd.
-
-### 6. Maak de workflow portable
-
-Publiceer context, feature, UI en databasecontract onafhankelijk. Voer preflight en lokale activatie uit. Test dat de actieve toepassing blijft werken wanneer stores tijdelijk niet bereikbaar zijn.
-
-### 7. Schaal via hergebruik
-
-Hergebruik policies, contracten en adapters alleen wanneer hun scope dat toestaat. Maak nieuwe workspaces voor nieuwe doelen of data boundaries. Meet niet alleen outputvolume, maar ook contextkwaliteit, afwijzingen, reviewdoorlooptijd, providerafhankelijkheid en rollbackbaarheid.
-
-## Conclusie
-
-Het Universeel Context Fundament maakt context rond AI expliciet, bestuurbaar en overdraagbaar. Het scheidt organisatiedoel van modeluitvoering, bronselectie van technische bereikbaarheid, generation van publication en portable artifacts van lokale consumerconfiguratie.
-
-De kracht ligt in de combinatie:
-
-- een workspace maakt betekenis leesbaar;
-- stagecontracten maken de workflow controleerbaar;
-- adapters maken providers vervangbaar;
-- immutable releases en exacte pins maken distributie reproduceerbaar;
-- lokale last-known-good state beperkt runtimeafhankelijkheid;
-- audit en rollback maken verandering verantwoord.
-
-UCF is geen extra laag om snelheid te vertragen. Het is de laag die maakt dat snelheid kan worden herhaald, uitgelegd, gevalideerd en teruggedraaid. Daardoor kan AI van experiment uitgroeien tot een betrouwbaar onderdeel van de bedrijfsvoering.
+Juist daardoor kan AI doorgroeien van een overtuigend experiment naar een betrouwbaar onderdeel van de bedrijfsvoering.
 
 ---
 
-[← Terug naar het GitHub-profiel](../readme.md) · [Lees de Workplace Vision](../workplace/Vision.md)
+## Over deze publicatie
+
+| Eigenschap | Waarde |
+|---|---|
+| **Document** | Toegankelijke GitHub-editie van de architectuurwhitepaper |
+| **Versie** | 1.2 |
+| **Publicatiedatum** | 11 augustus 2026 |
+| **Taal** | Nederlands |
+| **Doelgroep** | Bestuurders, architecten, securityprofessionals, productowners en engineers |
+| **Voorbeelden** | Fictief en vrij van klant-, provider- en omgevingsgegevens |
+
+[← Terug naar het GitHub-profiel](../readme.md)
