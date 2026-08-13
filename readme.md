@@ -14,7 +14,7 @@
 
 ## Architecture with a human purpose
 
-Technology only creates lasting value when people can use it confidently, securely, and without unnecessary friction. That belief guides my work as a **Lead ICT Architect**, software builder, and open-source advocate.
+Technology only creates lasting value when people can use it confidently, securely, and without unnecessary friction.
 
 I work at the intersection of strategy, architecture, engineering, security, adoption, and operations. My focus is not technology for its own sake, but the design of digital environments that help people collaborate, create, make decisions, and adapt as their organization evolves.
 
