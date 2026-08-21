@@ -10,9 +10,9 @@
 
 ---
 
-<p align="right"><sub><a href="../readme.md">← Architecture overview</a></sub></p>
+<p align="right"><sub><strong>English</strong> · <a href="../nl/workplace-vision.md">Nederlands</a> · <a href="../../README.md">← Architecture overview</a></sub></p>
 
-<!-- publication-tabs:start -->
+<!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
@@ -20,16 +20,16 @@
       <sub>Current paper · EN</sub>
     </td>
     <td width="33%" align="center">
-      <a href="../publications/Value_Delivery_Thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
+      <a href="value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
       <sub>Customer promise → delivery evidence</sub>
     </td>
     <td width="34%" align="center">
-      <a href="../publications/Universeel_Context_Fundament.md"><strong>03 · Universeel Context Fundament</strong></a><br />
+      <a href="universal-context-foundation.md"><strong>03 · Universal Context Foundation</strong></a><br />
       <sub>Organizational context → governed AI</sub>
     </td>
   </tr>
 </table>
-<!-- publication-tabs:end -->
+<!-- publication-navigation:end -->
 
 ## The central belief
 
@@ -44,7 +44,7 @@ This vision is not limited to a physical office or a collection of digital tools
 ## The workplace: a foundation of nine pillars
 
 <p align="center">
-  <img src="./A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png" alt="A people-first workplace built on nine pillars" width="760" />
+  <img src="../../assets/workplace/nine-pillars.png" alt="A people-first workplace built on nine pillars" width="760" />
 </p>
 
 The workplace rests on nine connected pillars. The first three define freedom of access. The other six define the quality, trust, and experience that make that freedom sustainable.
@@ -246,11 +246,11 @@ The same principle — organizational purpose and human responsibility before te
 
 The **Value Delivery Thread** explains how intended value remains traceable through product release, pricing, quotation, delivery, operational reality, experience, and deliberate improvement.
 
-**[Continue with Value Delivery Thread →](../publications/Value_Delivery_Thread.md)**
+**[Continue with Value Delivery Thread →](value-delivery-thread.md)**
 
-The **Universeel Context Fundament (UCF)** applies the ownership principle to AI workflows. It keeps context, policy, workflow, validation, and evidence under organizational control while treating the model or provider as a replaceable executor behind an adapter.
+The **Universal Context Foundation (UCF)** applies the ownership principle to AI workflows. It keeps context, policy, workflow, validation, and evidence under organizational control while treating the model or provider as a replaceable executor behind an adapter.
 
-**[Explore the Universeel Context Fundament →](../publications/Universeel_Context_Fundament.md)**
+**[Explore the Universal Context Foundation →](universal-context-foundation.md)**
 
 ---
 

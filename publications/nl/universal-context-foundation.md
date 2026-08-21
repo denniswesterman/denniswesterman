@@ -12,17 +12,17 @@
 
 ---
 
-<p align="right"><sub><a href="../readme.md">← Architectuuroverzicht</a></sub></p>
+<p align="right"><sub><a href="../en/universal-context-foundation.md">English</a> · <strong>Nederlands</strong> · <a href="../../README.nl.md">← Architectuuroverzicht</a></sub></p>
 
-<!-- publication-tabs:start -->
+<!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="../workplace/Vision.md"><strong>01 · Workplace Vision</strong></a><br />
+      <a href="workplace-vision.md"><strong>01 · Workplace Vision</strong></a><br />
       <sub>Menselijke bedoeling → digitale ervaring</sub>
     </td>
     <td width="33%" align="center">
-      <a href="Value_Delivery_Thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
+      <a href="value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
       <sub>Klantbelofte → leveringsbewijs</sub>
     </td>
     <td width="34%" align="center">
@@ -31,7 +31,7 @@
     </td>
   </tr>
 </table>
-<!-- publication-tabs:end -->
+<!-- publication-navigation:end -->
 
 ## De kern in één minuut
 
@@ -329,4 +329,4 @@ Juist daardoor kan AI doorgroeien van een overtuigend experiment naar een betrou
 | **Doelgroep** | Bestuurders, architecten, securityprofessionals, productowners en engineers |
 | **Voorbeelden** | Fictief en vrij van klant-, provider- en omgevingsgegevens |
 
-[← Vorige: Value Delivery Thread](Value_Delivery_Thread.md) · [Architectuuroverzicht](../readme.md)
+[← Vorige: Value Delivery Thread](value-delivery-thread.md) · [Architectuuroverzicht](../../README.nl.md)

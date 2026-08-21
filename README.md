@@ -6,6 +6,8 @@
 
 **People first. Technology second. Architecture connects the two.**
 
+**English** · [Nederlands](README.nl.md)
+
 [Architecture library ↓](#architecture-library) · [LinkedIn](https://www.linkedin.com/in/denniswesterman/)
 
 </div>
@@ -14,33 +16,33 @@
 
 ## Architecture library
 
-Three publications, one architectural line: begin with human purpose, preserve meaning throughout value delivery, and keep specialized AI execution governable. Choose a tab to open the complete paper.
+Three publications, one architectural line: begin with human purpose, preserve meaning throughout value delivery, and keep specialized AI execution governable. Choose a publication to open the complete English paper.
 
-<!-- publication-tabs:start -->
+<!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="workplace/Vision.md"><strong>01 · Workplace Vision</strong></a><br />
+      <a href="publications/en/workplace-vision.md"><strong>01 · Workplace Vision</strong></a><br />
       <sub>Human purpose → digital experience</sub>
     </td>
     <td width="33%" align="center">
-      <a href="publications/Value_Delivery_Thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
+      <a href="publications/en/value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
       <sub>Customer promise → delivery evidence</sub>
     </td>
     <td width="34%" align="center">
-      <a href="publications/Universeel_Context_Fundament.md"><strong>03 · Universeel Context Fundament</strong></a><br />
+      <a href="publications/en/universal-context-foundation.md"><strong>03 · Universal Context Foundation</strong></a><br />
       <sub>Organizational context → governed AI</sub>
     </td>
   </tr>
 </table>
-<!-- publication-tabs:end -->
+<!-- publication-navigation:end -->
 
 <details>
 <summary><strong>How the three papers connect</strong></summary>
 
 1. **Workplace Vision** establishes the human outcome: a workplace that gives people freedom, confidence, clarity, and inclusive access.
 2. **Value Delivery Thread** carries that purpose through product release, pricing, quotation, delivery, operational reality, experience, and deliberate improvement.
-3. **Universeel Context Fundament** applies the same ownership principles to context, policy, workflow, validation, and evidence while AI technology remains replaceable.
+3. **Universal Context Foundation** applies the same ownership principles to context, policy, workflow, validation, and evidence while AI technology remains replaceable.
 
 Together they form a traceable path from **purpose → governed design → released promise → demonstrated outcome**.
 
@@ -71,8 +73,8 @@ This structure creates clear accountability without disconnecting strategy from 
 My workplace vision starts with a simple principle: **people come first, technology comes second**. The digital workplace should provide freedom without losing control, security without unnecessary obstruction, and consistency without excluding individual needs.
 
 <p align="center">
-  <a href="workplace/Vision.md">
-    <img src="workplace/A_FOUNDATION_OF_NINE_PILLARS_NO_TITLE.png" alt="The nine pillars of a people-first digital workplace" width="760" />
+  <a href="publications/en/workplace-vision.md">
+    <img src="assets/workplace/nine-pillars.png" alt="The nine pillars of a people-first digital workplace" width="760" />
   </a>
 </p>
 
@@ -82,15 +84,31 @@ The vision is built on nine connected pillars:
 
 Together, they describe a workplace in which technology adapts to people, security is naturally integrated, compliance is understandable, and continuous improvement is driven by real experience.
 
-**[Read the complete Workplace Vision →](workplace/Vision.md)**
+**[Read the complete Workplace Vision →](publications/en/workplace-vision.md)**
 
 ## Publication spotlights
 
-### Universeel Context Fundament
+### Value Delivery Thread
+
+**Customer value · Coherence · Release · Evidence**
+
+The *Value Delivery Thread* (VDT) preserves one demonstrable line from intended customer outcome to product definition, product release, commercial commitment, delivery, operational service, experience, and improvement.
+
+Within that thread, the **Product Delivery Catalogue (PDC)** is positioned as a federated product-release register. Pricing, legal, delivery, process management, and configuration management remain owners of their own facts. The PDC owns the compatibility and release of the exact combination; the VDT makes the complete relationship traceable in both directions.
+
+The paper distinguishes definitions, releases, snapshots, and operational instances; explains where price books, quotation assets, delivery blueprints, runbooks, service models, and configuration items belong; and introduces separate decisions for sellability, generic deliverability, and customer-specific operational readiness.
+
+> Do not centralize every fact. Centralize the demonstrability of the relationship between promise, decision, execution, and experience.
+
+**Version 1.0 · 21 August 2026 · English**
+
+**[Read Value Delivery Thread →](publications/en/value-delivery-thread.md)**
+
+### Universal Context Foundation
 
 **Context · Workflow · Governance · Portability**
 
-The *Universeel Context Fundament* (UCF) is a Dutch-language architecture whitepaper about creating a **governable, repeatable, and vendor-independent foundation for AI workflows**.
+The *Universal Context Foundation* (UCF) is an architecture whitepaper about creating a **governable, repeatable, and vendor-independent foundation for AI workflows**.
 
 Many AI initiatives begin with a model, a prompt, and access to organizational data. That may produce a useful demonstration, but it does not automatically create a controllable system. UCF moves the durable foundation away from the model and toward the organization-owned combination of:
 
@@ -104,25 +122,9 @@ The architecture uses five fixed stages — **intake, context selection, generat
 
 > The model is replaceable. Meaning, context, quality criteria, approval, and evidence remain owned by the organization.
 
-**Version 1.2 · 11 August 2026 · Dutch**
+**Version 1.2 · 11 August 2026 · English**
 
-**[Read the GitHub edition of the whitepaper →](publications/Universeel_Context_Fundament.md)**
-
-### Value Delivery Thread
-
-**Customer value · coherence · release · evidence**
-
-The *Value Delivery Thread* (VDT) is a Dutch-language architecture whitepaper about preserving one demonstrable line from intended customer outcome to product definition, product release, commercial commitment, delivery, operational service, experience, and improvement.
-
-Within that thread, the **Product Delivery Catalogue (PDC)** is positioned as a federated product-release register. Pricing, legal, delivery, process management, and configuration management remain owners of their own facts. The PDC owns the compatibility and release of the exact combination; the VDT makes the complete relationship traceable in both directions.
-
-The paper distinguishes definitions, releases, snapshots, and operational instances; explains where price books, quotation assets, delivery blueprints, runbooks, service models, and configuration items belong; and introduces separate decisions for sellability, generic deliverability, and customer-specific operational readiness.
-
-> Do not centralize every fact. Centralize the demonstrability of the relationship between promise, decision, execution, and experience.
-
-**Version 1.0 · 21 August 2026 · Dutch**
-
-**[Read the GitHub edition of Value Delivery Thread →](publications/Value_Delivery_Thread.md)**
+**[Read Universal Context Foundation →](publications/en/universal-context-foundation.md)**
 
 ## Principles I work by
 

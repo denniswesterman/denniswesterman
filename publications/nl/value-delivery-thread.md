@@ -12,13 +12,13 @@
 
 ---
 
-<p align="right"><sub><a href="../readme.md">← Architectuuroverzicht</a></sub></p>
+<p align="right"><sub><a href="../en/value-delivery-thread.md">English</a> · <strong>Nederlands</strong> · <a href="../../README.nl.md">← Architectuuroverzicht</a></sub></p>
 
-<!-- publication-tabs:start -->
+<!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="../workplace/Vision.md"><strong>01 · Workplace Vision</strong></a><br />
+      <a href="workplace-vision.md"><strong>01 · Workplace Vision</strong></a><br />
       <sub>Menselijke bedoeling → digitale ervaring</sub>
     </td>
     <td width="33%" align="center">
@@ -26,12 +26,12 @@
       <sub>Huidige paper · NL</sub>
     </td>
     <td width="34%" align="center">
-      <a href="Universeel_Context_Fundament.md"><strong>03 · Universeel Context Fundament</strong></a><br />
+      <a href="universal-context-foundation.md"><strong>03 · Universeel Context Fundament</strong></a><br />
       <sub>Organisatiecontext → bestuurbare AI</sub>
     </td>
   </tr>
 </table>
-<!-- publication-tabs:end -->
+<!-- publication-navigation:end -->
 
 ## De kern in één minuut
 
@@ -731,4 +731,4 @@ De Value Delivery Thread verbindt deze bronnen en besluiten zonder één allesom
 | **Status** | Theoretische architectuurpublicatie; product-, platform- en leveranciersonafhankelijk |
 | **Reikwijdte** | Architectuursynthese en besliskader; geen formele norm, juridisch advies of empirisch gevalideerd volwassenheidsmodel |
 
-[← Vorige: Workplace Vision](../workplace/Vision.md) · [Architectuuroverzicht](../readme.md) · [Volgende: Universeel Context Fundament →](Universeel_Context_Fundament.md)
+[← Vorige: Workplace Vision](workplace-vision.md) · [Architectuuroverzicht](../../README.nl.md) · [Volgende: Universeel Context Fundament →](universal-context-foundation.md)
