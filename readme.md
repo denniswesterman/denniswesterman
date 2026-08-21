@@ -6,11 +6,45 @@
 
 **People first. Technology second. Architecture connects the two.**
 
-[Workplace Vision](workplace/Vision.md) · [UCF Whitepaper](publications/Universeel_Context_Fundament.md) · [LinkedIn](https://www.linkedin.com/in/denniswesterman/)
+[Architecture library ↓](#architecture-library) · [LinkedIn](https://www.linkedin.com/in/denniswesterman/)
 
 </div>
 
 ---
+
+## Architecture library
+
+Three publications, one architectural line: begin with human purpose, preserve meaning throughout value delivery, and keep specialized AI execution governable. Choose a tab to open the complete paper.
+
+<!-- publication-tabs:start -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="workplace/Vision.md"><strong>01 · Workplace Vision</strong></a><br />
+      <sub>Human purpose → digital experience</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="publications/Value_Delivery_Thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
+      <sub>Customer promise → delivery evidence</sub>
+    </td>
+    <td width="34%" align="center">
+      <a href="publications/Universeel_Context_Fundament.md"><strong>03 · Universeel Context Fundament</strong></a><br />
+      <sub>Organizational context → governed AI</sub>
+    </td>
+  </tr>
+</table>
+<!-- publication-tabs:end -->
+
+<details>
+<summary><strong>How the three papers connect</strong></summary>
+
+1. **Workplace Vision** establishes the human outcome: a workplace that gives people freedom, confidence, clarity, and inclusive access.
+2. **Value Delivery Thread** carries that purpose through product release, pricing, quotation, delivery, operational reality, experience, and deliberate improvement.
+3. **Universeel Context Fundament** applies the same ownership principles to context, policy, workflow, validation, and evidence while AI technology remains replaceable.
+
+Together they form a traceable path from **purpose → governed design → released promise → demonstrated outcome**.
+
+</details>
 
 ## Architecture with a human purpose
 
@@ -50,7 +84,7 @@ Together, they describe a workplace in which technology adapts to people, securi
 
 **[Read the complete Workplace Vision →](workplace/Vision.md)**
 
-## Featured publication
+## Publication spotlights
 
 ### Universeel Context Fundament
 
@@ -73,6 +107,22 @@ The architecture uses five fixed stages — **intake, context selection, generat
 **Version 1.2 · 11 August 2026 · Dutch**
 
 **[Read the GitHub edition of the whitepaper →](publications/Universeel_Context_Fundament.md)**
+
+### Value Delivery Thread
+
+**Customer value · coherence · release · evidence**
+
+The *Value Delivery Thread* (VDT) is a Dutch-language architecture whitepaper about preserving one demonstrable line from intended customer outcome to product definition, product release, commercial commitment, delivery, operational service, experience, and improvement.
+
+Within that thread, the **Product Delivery Catalogue (PDC)** is positioned as a federated product-release register. Pricing, legal, delivery, process management, and configuration management remain owners of their own facts. The PDC owns the compatibility and release of the exact combination; the VDT makes the complete relationship traceable in both directions.
+
+The paper distinguishes definitions, releases, snapshots, and operational instances; explains where price books, quotation assets, delivery blueprints, runbooks, service models, and configuration items belong; and introduces separate decisions for sellability, generic deliverability, and customer-specific operational readiness.
+
+> Do not centralize every fact. Centralize the demonstrability of the relationship between promise, decision, execution, and experience.
+
+**Version 1.0 · 21 August 2026 · Dutch**
+
+**[Read the GitHub edition of Value Delivery Thread →](publications/Value_Delivery_Thread.md)**
 
 ## Principles I work by
 

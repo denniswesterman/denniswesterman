@@ -10,6 +10,27 @@
 
 ---
 
+<p align="right"><sub><a href="../readme.md">← Architecture overview</a></sub></p>
+
+<!-- publication-tabs:start -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <strong>01 · Workplace Vision</strong><br />
+      <sub>Current paper · EN</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="../publications/Value_Delivery_Thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
+      <sub>Customer promise → delivery evidence</sub>
+    </td>
+    <td width="34%" align="center">
+      <a href="../publications/Universeel_Context_Fundament.md"><strong>03 · Universeel Context Fundament</strong></a><br />
+      <sub>Organizational context → governed AI</sub>
+    </td>
+  </tr>
+</table>
+<!-- publication-tabs:end -->
+
 ## The central belief
 
 The foundation of this workplace vision is simple: **people come first, technology comes second**.
@@ -219,13 +240,17 @@ Four commitments keep the vision operational:
 3. **Integrated security and compliance** — design controls into the experience and make their purpose understandable.
 4. **Continuous evolution** — use evidence and feedback to improve governance, design, configuration, and adoption together.
 
-## Related architecture publication
+## Continue through the architecture library
 
-The same principle — organizational purpose and human responsibility before technology — also underpins the **Universeel Context Fundament (UCF)**.
+The same principle — organizational purpose and human responsibility before technology — continues through two complementary architecture papers.
 
-Where this document applies that principle to the digital workplace, UCF applies it to AI workflows. It keeps context, policy, workflow, validation, and evidence under organizational control while treating the model or provider as a replaceable executor behind an adapter.
+The **Value Delivery Thread** explains how intended value remains traceable through product release, pricing, quotation, delivery, operational reality, experience, and deliberate improvement.
 
-**[Read the GitHub edition of the Universeel Context Fundament →](../publications/Universeel_Context_Fundament.md)**
+**[Continue with Value Delivery Thread →](../publications/Value_Delivery_Thread.md)**
+
+The **Universeel Context Fundament (UCF)** applies the ownership principle to AI workflows. It keeps context, policy, workflow, validation, and evidence under organizational control while treating the model or provider as a replaceable executor behind an adapter.
+
+**[Explore the Universeel Context Fundament →](../publications/Universeel_Context_Fundament.md)**
 
 ---
 

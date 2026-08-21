@@ -12,6 +12,27 @@
 
 ---
 
+<p align="right"><sub><a href="../readme.md">← Architectuuroverzicht</a></sub></p>
+
+<!-- publication-tabs:start -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="../workplace/Vision.md"><strong>01 · Workplace Vision</strong></a><br />
+      <sub>Menselijke bedoeling → digitale ervaring</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="Value_Delivery_Thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
+      <sub>Klantbelofte → leveringsbewijs</sub>
+    </td>
+    <td width="34%" align="center">
+      <strong>03 · Universeel Context Fundament</strong><br />
+      <sub>Huidige paper · NL</sub>
+    </td>
+  </tr>
+</table>
+<!-- publication-tabs:end -->
+
 ## De kern in één minuut
 
 AI kan in korte tijd overtuigende teksten, analyses en adviezen produceren. De echte uitdaging begint wanneer een organisatie moet kunnen uitleggen **waarom** een resultaat tot stand kwam, **welke informatie** is gebruikt, **welke regels** golden en **wie** het resultaat heeft beoordeeld.
@@ -308,4 +329,4 @@ Juist daardoor kan AI doorgroeien van een overtuigend experiment naar een betrou
 | **Doelgroep** | Bestuurders, architecten, securityprofessionals, productowners en engineers |
 | **Voorbeelden** | Fictief en vrij van klant-, provider- en omgevingsgegevens |
 
-[← Terug naar het GitHub-profiel](../readme.md)
+[← Vorige: Value Delivery Thread](Value_Delivery_Thread.md) · [Architectuuroverzicht](../readme.md)
