@@ -1,14 +1,14 @@
 # Architecture publications
 
-**English** · [Nederlands](README.nl.md) · [← Profile](../README.md)
+**English** · [Nederlands](README.nl.md) · [Interactive demo ↗](https://denniswesterman.github.io/denniswesterman/) · [← Profile](../README.md)
 
 This library contains the complete English editions of the architecture papers. Every publication has a one-to-one Dutch counterpart with the same filename under [`nl/`](nl/).
 
 | Publication | Focus | Languages |
 |---|---|---|
-| **[Workplace Vision](en/workplace-vision.md)** | A people-first foundation for the digital workplace. | [English](en/workplace-vision.md) · [Nederlands](nl/workplace-vision.md) |
-| **[Value Delivery Thread](en/value-delivery-thread.md)** | Traceability from customer outcome and product release to delivery, operational reality, experience, and improvement. | [English](en/value-delivery-thread.md) · [Nederlands](nl/value-delivery-thread.md) |
 | **[Universal Context Foundation](en/universal-context-foundation.md)** | Governable, repeatable, and vendor-independent AI workflows through controlled context and evidence. | [English](en/universal-context-foundation.md) · [Nederlands](nl/universal-context-foundation.md) |
+| **[Value Delivery Thread](en/value-delivery-thread.md)** | Traceability from customer outcome and product release to delivery, operational reality, experience, and improvement. | [English](en/value-delivery-thread.md) · [Nederlands](nl/value-delivery-thread.md) |
+| **[Workplace Vision](en/workplace-vision.md)** | A people-first foundation for the digital workplace. | [English](en/workplace-vision.md) · [Nederlands](nl/workplace-vision.md) |
 
 ## Repository convention
 
