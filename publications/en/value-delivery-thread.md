@@ -12,22 +12,22 @@
 
 ---
 
-<p align="right"><sub><strong>English</strong> · <a href="../nl/value-delivery-thread.md">Nederlands</a> · <a href="../../README.md">← Architecture overview</a></sub></p>
+<p align="right"><sub><strong>English</strong> · <a href="../nl/value-delivery-thread.md">Nederlands</a> · <a href="https://denniswesterman.github.io/denniswesterman/">Interactive demo ↗</a> · <a href="../../README.md">← Architecture overview</a></sub></p>
 
 <!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="workplace-vision.md"><strong>01 · Workplace Vision</strong></a><br />
-      <sub>Human purpose → digital experience</sub>
+      <a href="universal-context-foundation.md"><strong>01 · Universal Context Foundation</strong></a><br />
+      <sub>Governable context → controlled execution</sub>
     </td>
     <td width="33%" align="center">
       <strong>02 · Value Delivery Thread</strong><br />
       <sub>Current paper · EN</sub>
     </td>
     <td width="34%" align="center">
-      <a href="universal-context-foundation.md"><strong>03 · Universal Context Foundation</strong></a><br />
-      <sub>Organizational context → governed AI</sub>
+      <a href="workplace-vision.md"><strong>03 · Workplace Vision</strong></a><br />
+      <sub>Human purpose → digital experience</sub>
     </td>
   </tr>
 </table>

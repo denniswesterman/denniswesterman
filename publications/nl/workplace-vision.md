@@ -10,22 +10,22 @@
 
 ---
 
-<p align="right"><sub><a href="../en/workplace-vision.md">English</a> · <strong>Nederlands</strong> · <a href="../../README.nl.md">← Architectuuroverzicht</a></sub></p>
+<p align="right"><sub><a href="../en/workplace-vision.md">English</a> · <strong>Nederlands</strong> · <a href="https://denniswesterman.github.io/denniswesterman/">Interactieve demo ↗</a> · <a href="../../README.nl.md">← Architectuuroverzicht</a></sub></p>
 
 <!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <strong>01 · Workplace Vision</strong><br />
-      <sub>Huidige paper · NL</sub>
+      <a href="universal-context-foundation.md"><strong>01 · Universeel Context Fundament</strong></a><br />
+      <sub>Bestuurbare context → beheerste uitvoering</sub>
     </td>
     <td width="33%" align="center">
       <a href="value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
       <sub>Klantbelofte → leveringsbewijs</sub>
     </td>
     <td width="34%" align="center">
-      <a href="universal-context-foundation.md"><strong>03 · Universeel Context Fundament</strong></a><br />
-      <sub>Organisatiecontext → bestuurbare AI</sub>
+      <strong>03 · Workplace Vision</strong><br />
+      <sub>Huidige paper · NL</sub>
     </td>
   </tr>
 </table>

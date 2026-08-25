@@ -14,22 +14,22 @@
 
 ---
 
-<p align="right"><sub><a href="../en/universal-context-foundation.md">English</a> · <strong>Nederlands</strong> · <a href="../../README.nl.md">← Architectuuroverzicht</a></sub></p>
+<p align="right"><sub><a href="../en/universal-context-foundation.md">English</a> · <strong>Nederlands</strong> · <a href="https://denniswesterman.github.io/denniswesterman/">Interactieve demo ↗</a> · <a href="../../README.nl.md">← Architectuuroverzicht</a></sub></p>
 
 <!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="workplace-vision.md"><strong>01 · Workplace Vision</strong></a><br />
-      <sub>Menselijke bedoeling → digitale ervaring</sub>
+      <strong>01 · Universeel Context Fundament</strong><br />
+      <sub>Huidige paper · NL</sub>
     </td>
     <td width="33%" align="center">
       <a href="value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
       <sub>Klantbelofte → leveringsbewijs</sub>
     </td>
     <td width="34%" align="center">
-      <strong>03 · Universeel Context Fundament</strong><br />
-      <sub>Huidige paper · NL</sub>
+      <a href="workplace-vision.md"><strong>03 · Workplace Vision</strong></a><br />
+      <sub>Menselijke bedoeling → digitale ervaring</sub>
     </td>
   </tr>
 </table>

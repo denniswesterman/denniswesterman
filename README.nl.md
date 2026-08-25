@@ -8,7 +8,7 @@
 
 [English](README.md) · **Nederlands**
 
-[Architectuurbibliotheek ↓](#architectuurbibliotheek) · [LinkedIn](https://www.linkedin.com/in/denniswesterman/)
+[Verken de interactieve architectuur →](https://denniswesterman.github.io/denniswesterman/) · [Architectuurbibliotheek ↓](#architectuurbibliotheek) · [LinkedIn](https://www.linkedin.com/in/denniswesterman/)
 
 </div>
 
@@ -16,22 +16,24 @@
 
 ## Architectuurbibliotheek
 
-Drie publicaties, één architectuurlijn: begin bij de menselijke bedoeling, behoud betekenis tijdens waardelevering en houd gespecialiseerde AI-uitvoering bestuurbaar. Kies een publicatie om de volledige Nederlandse paper te openen.
+Drie publicaties, één architectuurlijn: leg een bestuurbaar contextfundament, behoud betekenis tijdens waardelevering en maak de resulterende menselijke waarde zichtbaar. Kies een publicatie om de volledige Nederlandse paper te openen.
+
+**[Open de niet-opslaande Value Delivery Thread-demo →](https://denniswesterman.github.io/denniswesterman/)**
 
 <!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="publications/nl/workplace-vision.md"><strong>01 · Workplace Vision</strong></a><br />
-      <sub>Menselijke bedoeling → digitale ervaring</sub>
+      <a href="publications/nl/universal-context-foundation.md"><strong>01 · Universeel Context Fundament</strong></a><br />
+      <sub>Bestuurbare context → beheerste uitvoering</sub>
     </td>
     <td width="33%" align="center">
       <a href="publications/nl/value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
       <sub>Klantbelofte → leveringsbewijs</sub>
     </td>
     <td width="34%" align="center">
-      <a href="publications/nl/universal-context-foundation.md"><strong>03 · Universeel Context Fundament</strong></a><br />
-      <sub>Organisatiecontext → bestuurbare AI</sub>
+      <a href="publications/nl/workplace-vision.md"><strong>03 · Workplace Vision</strong></a><br />
+      <sub>Menselijke bedoeling → digitale ervaring</sub>
     </td>
   </tr>
 </table>
@@ -40,11 +42,11 @@ Drie publicaties, één architectuurlijn: begin bij de menselijke bedoeling, beh
 <details>
 <summary><strong>Hoe de drie papers samenhangen</strong></summary>
 
-1. **Workplace Vision** bepaalt de menselijke uitkomst: een werkplek die mensen vrijheid, vertrouwen, duidelijkheid en inclusieve toegang geeft.
-2. **Value Delivery Thread** draagt die bedoeling door productvrijgave, pricing, offerte, levering, operationele werkelijkheid, ervaring en doelgerichte verbetering.
-3. **Universeel Context Fundament** past dezelfde eigenaarschapsprincipes toe op context, beleid, workflow, validatie en bewijs, terwijl AI-technologie vervangbaar blijft.
+1. **Universeel Context Fundament** legt het bestuurbare fundament voor context, beleid, workflow, validatie en bewijs, terwijl AI-technologie vervangbaar blijft.
+2. **Value Delivery Thread** verbindt die beheerste betekenis met productvrijgave, pricing, offerte, levering, operationele werkelijkheid, ervaring en doelgerichte verbetering.
+3. **Workplace Vision** maakt de menselijke uitkomst expliciet: een werkplek die mensen vrijheid, vertrouwen, duidelijkheid en inclusieve toegang geeft.
 
-Samen vormen zij een traceerbaar pad van **bedoeling → beheerst ontwerp → vrijgegeven belofte → aangetoonde uitkomst**.
+Samen vormen zij een traceerbaar pad van **bestuurbare context → aantoonbare levering → menselijke waarde**.
 
 </details>
 

@@ -8,7 +8,7 @@
 
 **English** · [Nederlands](README.nl.md)
 
-[Architecture library ↓](#architecture-library) · [LinkedIn](https://www.linkedin.com/in/denniswesterman/)
+[Explore the interactive architecture →](https://denniswesterman.github.io/denniswesterman/) · [Architecture library ↓](#architecture-library) · [LinkedIn](https://www.linkedin.com/in/denniswesterman/)
 
 </div>
 
@@ -16,22 +16,24 @@
 
 ## Architecture library
 
-Three publications, one architectural line: begin with human purpose, preserve meaning throughout value delivery, and keep specialized AI execution governable. Choose a publication to open the complete English paper.
+Three publications, one architectural line: establish a governable context foundation, preserve meaning throughout value delivery, and make the resulting human value visible. Choose a publication to open the complete English paper.
+
+**[Open the non-persistent Value Delivery Thread demo →](https://denniswesterman.github.io/denniswesterman/)**
 
 <!-- publication-navigation:start -->
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="publications/en/workplace-vision.md"><strong>01 · Workplace Vision</strong></a><br />
-      <sub>Human purpose → digital experience</sub>
+      <a href="publications/en/universal-context-foundation.md"><strong>01 · Universal Context Foundation</strong></a><br />
+      <sub>Governable context → controlled execution</sub>
     </td>
     <td width="33%" align="center">
       <a href="publications/en/value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
       <sub>Customer promise → delivery evidence</sub>
     </td>
     <td width="34%" align="center">
-      <a href="publications/en/universal-context-foundation.md"><strong>03 · Universal Context Foundation</strong></a><br />
-      <sub>Organizational context → governed AI</sub>
+      <a href="publications/en/workplace-vision.md"><strong>03 · Workplace Vision</strong></a><br />
+      <sub>Human purpose → digital experience</sub>
     </td>
   </tr>
 </table>
@@ -40,11 +42,11 @@ Three publications, one architectural line: begin with human purpose, preserve m
 <details>
 <summary><strong>How the three papers connect</strong></summary>
 
-1. **Workplace Vision** establishes the human outcome: a workplace that gives people freedom, confidence, clarity, and inclusive access.
-2. **Value Delivery Thread** carries that purpose through product release, pricing, quotation, delivery, operational reality, experience, and deliberate improvement.
-3. **Universal Context Foundation** applies the same ownership principles to context, policy, workflow, validation, and evidence while AI technology remains replaceable.
+1. **Universal Context Foundation** establishes the governable foundation for context, policy, workflow, validation, and evidence while AI technology remains replaceable.
+2. **Value Delivery Thread** connects that governed meaning to product release, pricing, quotation, delivery, operational reality, experience, and deliberate improvement.
+3. **Workplace Vision** makes the human outcome explicit: a workplace that gives people freedom, confidence, clarity, and inclusive access.
 
-Together they form a traceable path from **purpose → governed design → released promise → demonstrated outcome**.
+Together they form a traceable path from **governed context → demonstrable delivery → human value**.
 
 </details>
 
