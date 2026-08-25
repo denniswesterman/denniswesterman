@@ -3344,7 +3344,19 @@ html.js .peer-detail article:not(.is-active) {
 }
 
 .section {
+  min-width: 0;
+  grid-template-columns: minmax(0, 1fr);
   margin-top: clamp(5rem, 9vw, 8rem);
+}
+
+.section > *,
+.section-heading,
+.section-heading > div,
+.section-heading h2,
+.chapter-disclosure,
+.disclosure-body {
+  min-width: 0;
+  max-width: 100%;
 }
 
 .section-heading {
@@ -3429,6 +3441,7 @@ html.js .ucf-runner:not(.has-started) .evidence-log {
 
 .chapter-disclosure > summary > span:first-child {
   display: grid;
+  min-width: 0;
 }
 
 .chapter-disclosure > summary strong {
