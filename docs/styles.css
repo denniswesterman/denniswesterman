@@ -38,8 +38,9 @@
   --space-5: 1.25rem;
   --space-6: 1.5rem;
   --space-8: 2rem;
-  --font: "Segoe UI", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  --editorial: Georgia, "Times New Roman", serif;
+  --font: "Segoe UI Variable Text", Aptos, "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --editorial: "Segoe UI Variable Display", "Aptos Display", Aptos, "Segoe UI", system-ui, sans-serif;
+  --font-sans: var(--font);
 }
 
 *,
@@ -3841,5 +3842,280 @@ html.js .ucf-runner:not(.has-started) .evidence-log {
 
   .customer-evidence__controls {
     grid-template-columns: 1fr;
+  }
+}
+
+/* Rich architecture companion restored after the three-chapter simplification. */
+
+.main {
+  width: auto;
+}
+
+.topbar {
+  display: flex;
+  min-height: var(--topbar-height);
+  grid-template-columns: none;
+  gap: 1rem;
+  padding: 0 1.25rem;
+  background: rgba(247, 249, 252, 0.9);
+}
+
+.content {
+  width: min(100%, 94rem);
+  padding: clamp(1rem, 2.5vw, 2rem);
+}
+
+.section {
+  margin-top: clamp(3.3rem, 7vw, 6.75rem);
+}
+
+.section-heading {
+  gap: 2rem;
+}
+
+.hero h1,
+.section-heading h2,
+.run-status h4,
+.thread-detail h3,
+.lens-panel h3,
+.paper-card h3 {
+  font-weight: 720;
+  letter-spacing: -0.045em;
+}
+
+.hero h1 {
+  line-height: 0.94;
+}
+
+.section-heading h2 {
+  max-width: 22ch;
+  font-size: clamp(2rem, 4vw, 3.55rem);
+  line-height: 1.04;
+}
+
+.section-heading > p {
+  max-width: 58ch;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.hero-quote blockquote {
+  font-weight: 560;
+  letter-spacing: -0.012em;
+}
+
+.paper-number {
+  font-weight: 720;
+}
+
+.peer-panel,
+.ucf-runner,
+.thread-explorer,
+.release-workbench,
+.readiness-panel,
+.authority-panel,
+.sequence-panel,
+.trust-panel,
+.workplace-board,
+.paper-card {
+  box-shadow: var(--shadow-soft);
+}
+
+.product-release-disclosure .release-workbench,
+.product-release-disclosure .readiness-panel,
+.product-release-disclosure .authority-panel {
+  box-shadow: var(--shadow-soft);
+}
+
+.panel-index {
+  display: inline-grid;
+}
+
+.panel-heading > div {
+  gap: 0.72rem;
+}
+
+.peer-panel .panel-heading > .state-chip {
+  display: inline-flex;
+}
+
+html.js .ucf-runner:not(.has-started) .run-console {
+  grid-template-columns: minmax(0, 1.2fr) minmax(18rem, 0.8fr);
+}
+
+html.js .ucf-runner:not(.has-started) .evidence-log {
+  display: block;
+}
+
+.nav-item--sub {
+  margin-left: 1.2rem;
+  border-left: 1px solid var(--border);
+  border-radius: 0 0.58rem 0.58rem 0;
+  font-size: 0.8rem;
+}
+
+.breadcrumb-title-short {
+  display: none;
+}
+
+.eyebrow,
+.nav-label {
+  font-size: 0.73rem;
+}
+
+.version-pill,
+.object-pill,
+.count-pill,
+.relation-pill,
+.state-chip {
+  font-size: 0.72rem;
+}
+
+.panel-heading p,
+.source-card p,
+.gate-card p,
+.customer-evidence > div:first-child p,
+.workplace-flow > div > small,
+.paper-card p:not(.paper-kicker),
+.privacy-note {
+  font-size: 0.78rem;
+}
+
+.live-pill,
+.customer-evidence__controls button > span,
+.customer-evidence__controls button > small,
+.trust-chain small {
+  font-size: 0.72rem;
+}
+
+.customer-evidence__controls button > strong,
+.workplace-pillars li > strong,
+.paper-kicker {
+  font-size: 0.72rem;
+}
+
+.gate-record > div,
+.customer-evidence__note {
+  font-size: 0.69rem;
+}
+
+@media (max-width: 70rem) {
+  .topbar {
+    grid-template-columns: none;
+  }
+}
+
+@media (max-width: 64rem) {
+  .topbar {
+    padding: 0 0.9rem;
+  }
+
+  html.js .ucf-runner:not(.has-started) .run-console {
+    grid-template-columns: 1fr;
+  }
+
+  .lens-tab strong {
+    overflow: visible;
+    text-overflow: clip;
+    white-space: normal;
+    line-height: 1.2;
+  }
+
+  html:not(.js) body {
+    overflow: auto;
+  }
+
+  html:not(.js) .app-shell,
+  html:not(.js) .layout {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  html:not(.js) .layout {
+    display: block;
+    overflow: visible;
+  }
+
+  html:not(.js) .sidebar {
+    position: relative;
+    inset: auto;
+    display: block;
+    width: 100%;
+    height: auto;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+    padding: 0.7rem 1rem;
+    box-shadow: none;
+    transform: none;
+  }
+
+  html:not(.js) .sidebar__intro,
+  html:not(.js) .sidebar__foot,
+  html:not(.js) .nav-label,
+  html:not(.js) .sidebar__close,
+  html:not(.js) .topbar {
+    display: none;
+  }
+
+  html:not(.js) .navigation {
+    display: flex;
+    margin-top: 0.65rem;
+    overflow-x: auto;
+    padding-bottom: 0.2rem;
+    scrollbar-color: #c8c5f3 transparent;
+  }
+
+  html:not(.js) .nav-item {
+    min-height: 2.5rem;
+    flex: 0 0 auto;
+  }
+
+  html:not(.js) .nav-item--sub {
+    margin-left: 0;
+    border-left: 0;
+    border-radius: 0.58rem;
+  }
+
+  html:not(.js) .main {
+    height: auto;
+    overflow: visible;
+  }
+
+  html:not(.js) .content-scroll {
+    overflow: visible;
+  }
+}
+
+@media (max-width: 50rem) {
+  .topbar {
+    padding: 0 0.75rem;
+  }
+
+  .hero h1 {
+    font-size: clamp(2.9rem, 14vw, 4.7rem);
+  }
+
+  .breadcrumb-title-full {
+    display: none;
+  }
+
+  .breadcrumb-title-short {
+    display: inline;
+  }
+
+  .nav-item--sub {
+    margin-left: 0.75rem;
+  }
+
+  .tab-list {
+    scroll-snap-type: x proximity;
+  }
+
+  .lens-tab {
+    scroll-snap-align: start;
+  }
+
+  html:not(.js) .nav-item--sub {
+    margin-left: 0;
   }
 }

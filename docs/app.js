@@ -8,7 +8,7 @@
 
   const state = {
     language: "en",
-    lens: "workplace",
+    lens: "ucf",
     thread: "outcome",
     peer: "context",
     pinnedSources: new Set(),
@@ -628,7 +628,7 @@
     state.ucf.targetBound = false;
     state.ucf.published = false;
     state.ucf.activated = false;
-    if (trustDisclosure) trustDisclosure.open = false;
+    if (trustDisclosure) trustDisclosure.open = true;
     state.ucf.log = [{
       en: "Run has not started. No artifact is published.",
       nl: "Run is niet gestart. Geen artifact is gepubliceerd."
@@ -827,7 +827,7 @@
 
   root.querySelectorAll("[data-nav-link]").forEach((link) => {
     link.addEventListener("click", () => {
-      if (mobileQuery.matches) setSidebar(false);
+      if (mobileQuery.matches) setSidebar(false, { restore: true });
     });
   });
 
@@ -886,7 +886,7 @@
     state.pinnedSources.clear();
     resetGates();
     resetCustomerEvidence();
-    activateLens("workplace");
+    activateLens("ucf");
     activateThread("outcome");
     activatePeer("context");
     renderRelease();
