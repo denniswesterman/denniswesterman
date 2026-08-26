@@ -20,18 +20,79 @@
 
   <div class="app-shell" data-app>
     <div class="layout" data-layout>
+      <aside class="sidebar" id="site-sidebar" data-sidebar tabindex="-1">
+        <div class="sidebar__head">
+          <a class="brand" href="#top" data-label-en="Value Delivery Thread home" data-label-nl="Start Value Delivery Thread" aria-label="Value Delivery Thread home">
+            <span class="brand__mark" aria-hidden="true"><span></span><span></span><span></span></span>
+            <span class="brand__text"><strong>Value Delivery</strong><small>Thread</small></span>
+          </a>
+          <button class="icon-button sidebar__close" type="button" data-sidebar-close data-label-en="Close navigation" data-label-nl="Navigatie sluiten" aria-label="Close navigation">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></svg>
+          </button>
+        </div>
+
+        <p class="sidebar__intro">
+          <span data-lang="en">One architecture, explored through three connected papers.</span>
+          <span data-lang="nl">Eén architectuur, verkend door drie verbonden papers.</span>
+        </p>
+
+        <nav class="navigation" data-label-en="Page sections" data-label-nl="Paginaonderdelen" aria-label="Page sections">
+          <p class="nav-label"><span data-lang="en">Architecture companion</span><span data-lang="nl">Architectuurgids</span></p>
+          <a class="nav-item is-active" href="#overview" data-nav-link>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 13h6V4H4v9Zm0 7h6v-4H4v4Zm10 0h6v-9h-6v9Zm0-16v4h6V4h-6Z"/></svg>
+            <span data-lang="en">Overview</span><span data-lang="nl">Overzicht</span>
+          </a>
+          <a class="nav-item" href="#lenses" data-nav-link>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="7" cy="7" r="3"/><circle cx="17" cy="7" r="3"/><circle cx="12" cy="17" r="3"/><path d="m9.5 8.5 1.3 5.5m3.7-5.5L13.2 14M9.5 16h5"/></svg>
+            <span data-lang="en">Three lenses</span><span data-lang="nl">Drie lenzen</span>
+          </a>
+          <a class="nav-item" href="#ucf" data-nav-link>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5h16v4H4V5Zm0 10h16v4H4v-4Z"/><path d="M8 9v6m8-6v6"/></svg>
+            <span>01 · UCF</span>
+          </a>
+          <a class="nav-item" href="#thread" data-nav-link>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 12h4m4 0h4m4 0h0"/><circle cx="4" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="20" cy="12" r="2"/></svg>
+            <span>02 · Value Delivery Thread</span>
+          </a>
+          <a class="nav-item nav-item--sub" href="#release" data-nav-link>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m12 3 8 4.5v9L12 21l-8-4.5v-9L12 3Z"/><path d="m4.5 7.8 7.5 4.3 7.5-4.3M12 12v9"/></svg>
+            <span data-lang="en">Federated release</span><span data-lang="nl">Federatieve vrijgave</span>
+          </a>
+          <a class="nav-item" href="#workplace" data-nav-link>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3a5 5 0 0 1 5 5c0 4-5 9-5 9S7 12 7 8a5 5 0 0 1 5-5Z"/><path d="M4 20h16"/></svg>
+            <span>03 · Workplace Vision</span>
+          </a>
+          <a class="nav-item" href="#papers" data-nav-link>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 4h10a4 4 0 0 1 4 4v12H9a4 4 0 0 0-4-4V4Z"/><path d="M5 16h10a4 4 0 0 1 4 4"/></svg>
+            <span data-lang="en">Read the papers</span><span data-lang="nl">Lees de papers</span>
+          </a>
+        </nav>
+
+        <div class="sidebar__foot">
+          <div class="session-status" data-tone="success">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span><strong data-lang="en">Illustration only</strong><strong data-lang="nl">Alleen illustratie</strong><small data-lang="en">No data is saved</small><small data-lang="nl">Er wordt niets opgeslagen</small></span>
+          </div>
+          <a class="profile-link" href="https://github.com/denniswesterman/denniswesterman">
+            <span class="avatar" aria-hidden="true">DW</span>
+            <span><strong>Dennis Westerman</strong><small>Architecture library ↗</small></span>
+          </a>
+        </div>
+      </aside>
+
+      <button class="sidebar-backdrop" type="button" data-sidebar-backdrop hidden tabindex="-1" aria-hidden="true" data-label-en="Close navigation" data-label-nl="Navigatie sluiten" aria-label="Close navigation"></button>
+
       <main class="main" data-main>
         <header class="topbar">
-          <a class="topbar-brand" href="#overview" data-label-en="Value Delivery Thread home" data-label-nl="Start Value Delivery Thread" aria-label="Value Delivery Thread home">
-            <span class="brand__mark" aria-hidden="true"><span></span><span></span><span></span></span>
-            <span><strong>Value Delivery Thread</strong><small data-lang="en">Interactive paper companion</small><small data-lang="nl">Interactieve papergids</small></span>
-          </a>
-          <nav class="topbar-nav" data-label-en="Ordered chapters" data-label-nl="Hoofdstukken in volgorde" aria-label="Ordered chapters">
-            <a href="#ucf" data-nav-link><span>01</span> UCF</a>
-            <a href="#thread" data-nav-link><span>02</span> Value Delivery Thread</a>
-            <a href="#workplace" data-nav-link><span>03</span> Workplace Vision</a>
-            <a href="#papers" data-nav-link><span data-lang="en">Papers</span><span data-lang="nl">Papers</span></a>
-          </nav>
+          <div class="topbar__left">
+            <button class="icon-button menu-button" type="button" data-sidebar-open aria-controls="site-sidebar" aria-expanded="false" data-label-en="Open navigation" data-label-nl="Navigatie openen" aria-label="Open navigation">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+            </button>
+            <nav class="breadcrumbs" data-label-en="Breadcrumb" data-label-nl="Kruimelpad" aria-label="Breadcrumb">
+              <a href="#top">Dennis Westerman</a><span aria-hidden="true">/</span>
+              <span aria-current="page"><span class="breadcrumb-title-full">Value Delivery Thread</span><span class="breadcrumb-title-short">VDT</span></span>
+            </nav>
+          </div>
           <div class="topbar__actions">
             <div class="language-switch" role="group" data-label-en="Language" data-label-nl="Taal" aria-label="Language">
               <button type="button" data-language="en" aria-pressed="true">EN</button>
@@ -39,27 +100,65 @@
             </div>
             <button class="button button--quiet reset-button" type="button" data-reset-all data-label-en="Reset demo" data-label-nl="Reset demo" aria-label="Reset demo">
               <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 12a8 8 0 1 0 2.3-5.7L4 8.6"/><path d="M4 4v4.6h4.6"/></svg>
-              <span data-lang="en">Reset</span><span data-lang="nl">Reset</span>
+              <span data-lang="en">Reset demo</span><span data-lang="nl">Reset demo</span>
             </button>
           </div>
         </header>
 
         <div class="content-scroll" data-content-scroll>
           <div class="content" id="main-content">
-            <section class="hero hero--simple" id="overview" aria-labelledby="hero-title">
+            <section class="hero" id="overview" aria-labelledby="hero-title">
               <div class="hero__copy">
-                <p class="eyebrow">Value Delivery Thread · <span data-lang="en">interactive paper companion</span><span data-lang="nl">interactieve papergids</span></p>
-                <h1 id="hero-title"><span data-lang="en">From governed context to human value.</span><span data-lang="nl">Van bestuurbare context naar menselijke waarde.</span></h1>
-                <p class="hero__tagline" data-lang="en">One architecture, read in one deliberate order.</p>
-                <p class="hero__tagline" data-lang="nl">Eén architectuur, gelezen in één bewuste volgorde.</p>
-                <p class="hero__intro" data-lang="en">UCF establishes the governable foundation. The Value Delivery Thread connects decisions and evidence across delivery. Workplace Vision defines what people should ultimately experience.</p>
-                <p class="hero__intro" data-lang="nl">UCF legt het bestuurbare fundament. De Value Delivery Thread verbindt besluiten en bewijs door de levering heen. Workplace Vision bepaalt wat mensen uiteindelijk moeten ervaren.</p>
-                <nav class="chapter-path" data-label-en="Start with chapter one" data-label-nl="Begin bij hoofdstuk één" aria-label="Start with chapter one">
-                  <a href="#ucf"><span>01</span><strong>Universal Context Foundation</strong><small data-lang="en">Governable foundation</small><small data-lang="nl">Bestuurbaar fundament</small></a>
-                  <a href="#thread"><span>02</span><strong>Value Delivery Thread</strong><small data-lang="en">Decisions and evidence</small><small data-lang="nl">Besluiten en bewijs</small></a>
-                  <a href="#workplace"><span>03</span><strong>Workplace Vision</strong><small data-lang="en">Human value</small><small data-lang="nl">Menselijke waarde</small></a>
-                </nav>
-                <p class="session-note"><span aria-hidden="true">○</span><span data-lang="en">Illustration only. Choices live in memory and disappear on reset or reload.</span><span data-lang="nl">Alleen ter illustratie. Keuzes leven in het geheugen en verdwijnen bij reset of herladen.</span></p>
+                <div class="eyebrow-row"><span class="eyebrow"><span data-lang="en">Interactive architecture</span><span data-lang="nl">Interactieve architectuur</span></span><span class="version-pill">Paper-led · Session-only</span></div>
+                <h1 id="hero-title">Value Delivery Thread</h1>
+                <p class="hero__tagline" data-lang="en">From governable context to demonstrable human value.</p>
+                <p class="hero__tagline" data-lang="nl">Van bestuurbare context naar aantoonbare menselijke waarde.</p>
+                <p class="hero__lead" data-lang="en">Start with the Universal Context Foundation, follow decisions and evidence through the Value Delivery Thread, and test every result against the Workplace Vision people should experience.</p>
+                <p class="hero__lead" data-lang="nl">Start met het Universeel Context Fundament, volg besluiten en bewijs door de Value Delivery Thread en toets ieder resultaat aan de Workplace Vision die mensen moeten ervaren.</p>
+                <div class="hero__actions">
+                  <a class="button" href="#ucf"><span data-lang="en">Start with UCF</span><span data-lang="nl">Begin bij UCF</span><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5"/></svg></a>
+                  <button class="button button--secondary" type="button" data-open-domain-dialog><span data-lang="en">Why separate sources?</span><span data-lang="nl">Waarom aparte bronnen?</span></button>
+                </div>
+                <p class="privacy-note"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M7 10V8a5 5 0 0 1 10 0v2M5 10h14v10H5V10Z"/></svg><span data-lang="en">This is a static illustration. Choices live only in memory and disappear on reset or reload.</span><span data-lang="nl">Dit is een statische illustratie. Keuzes bestaan alleen in geheugen en verdwijnen bij reset of herladen.</span></p>
+              </div>
+              <div class="hero__visual" data-label-en="Governable context to human value" data-label-nl="Bestuurbare context naar menselijke waarde" aria-label="Governable context to human value">
+                <div class="hero-thread" aria-hidden="true">
+                  <div class="hero-thread__line"></div>
+                  <div class="hero-node hero-node--1"><span>01</span><strong data-lang="en">Governable context</strong><strong data-lang="nl">Bestuurbare context</strong></div>
+                  <div class="hero-node hero-node--2"><span>02</span><strong data-lang="en">Released promise</strong><strong data-lang="nl">Vrijgegeven belofte</strong></div>
+                  <div class="hero-node hero-node--3"><span>03</span><strong data-lang="en">Delivery evidence</strong><strong data-lang="nl">Leveringsbewijs</strong></div>
+                  <div class="hero-node hero-node--4"><span>04</span><strong data-lang="en">Human value</strong><strong data-lang="nl">Menselijke waarde</strong></div>
+                </div>
+                <div class="hero-quote"><span class="quote-mark" aria-hidden="true">“</span><blockquote data-lang="en">Do not centralize every fact. Centralize the demonstrability of the relationship.</blockquote><blockquote data-lang="nl">Centraliseer niet ieder feit. Centraliseer de aantoonbaarheid van de relatie.</blockquote><cite>Value Delivery Thread · v1.0</cite></div>
+              </div>
+            </section>
+
+            <section class="section" id="lenses" aria-labelledby="lenses-title">
+              <header class="section-heading">
+                <div><p class="eyebrow"><span data-lang="en">Three papers · one thread</span><span data-lang="nl">Drie papers · één rode draad</span></p><h2 id="lenses-title"><span data-lang="en">Change the lens, preserve the meaning.</span><span data-lang="nl">Wissel van lens, behoud de betekenis.</span></h2></div>
+                <p data-lang="en">Each paper owns a different question. In this order they connect governable context, delivery evidence and the human outcome.</p>
+                <p data-lang="nl">Iedere paper bezit een andere vraag. In deze volgorde verbinden ze bestuurbare context, leveringsbewijs en de menselijke uitkomst.</p>
+              </header>
+              <div class="lens-tabs" data-lens-tabs>
+                <div class="tab-list" data-tab-list>
+                  <button class="lens-tab is-active" type="button" data-lens-tab="ucf"><span class="tab-index">01</span><span><strong data-lang="en">Universal Context Foundation</strong><strong data-lang="nl">Universeel Context Fundament</strong><small data-lang="en">Governable foundation</small><small data-lang="nl">Bestuurbaar fundament</small></span></button>
+                  <button class="lens-tab" type="button" data-lens-tab="vdt"><span class="tab-index">02</span><span><strong>Value Delivery Thread</strong><small data-lang="en">Decisions and evidence</small><small data-lang="nl">Besluiten en bewijs</small></span></button>
+                  <button class="lens-tab" type="button" data-lens-tab="workplace"><span class="tab-index">03</span><span><strong>Workplace Vision</strong><small data-lang="en">Human purpose</small><small data-lang="nl">Menselijke bedoeling</small></span></button>
+                </div>
+                <div class="lens-panels">
+                  <article class="lens-panel is-active" data-lens-panel="ucf">
+                    <div class="lens-panel__copy"><span class="object-pill">Governed AI</span><h3 data-lang="en">How does context remain governable while execution stays replaceable?</h3><h3 data-lang="nl">Hoe blijft context bestuurbaar terwijl uitvoering vervangbaar blijft?</h3><p data-lang="en">UCF makes organization-owned context, policies, stage contracts, validation and evidence the durable foundation. A model remains an executor behind a controlled adapter.</p><p data-lang="nl">UCF maakt context, policies, stagecontracten, validatie en bewijs waarvan de organisatie eigenaar blijft tot het duurzame fundament. Een model blijft een uitvoerder achter een beheerste adapter.</p><p class="principle-line"><strong data-lang="en">Generated ≠ validated ≠ published.</strong><strong data-lang="nl">Gegenereerd ≠ gevalideerd ≠ gepubliceerd.</strong></p></div>
+                    <div class="peer-orbit" data-label-en="Four independently governed peers" data-label-nl="Vier onafhankelijk bestuurde peers" aria-label="Four independently governed peers"><span>UCF<small>context · meaning</small></span><span>Feature<small>behavior</small></span><span>UI<small>interaction</small></span><span>DB<small>schema</small></span><strong>exact pins</strong></div>
+                  </article>
+                  <article class="lens-panel" data-lens-panel="vdt">
+                    <div class="lens-panel__copy"><span class="object-pill">Traceability</span><h3 data-lang="en">How does intended value survive every handover?</h3><h3 data-lang="nl">Hoe blijft bedoelde waarde behouden bij iedere overdracht?</h3><p data-lang="en">The thread connects definitions, exact releases, commercial snapshots, delivery instances, operational reality and experience without turning one tool into the master of everything.</p><p data-lang="nl">De thread verbindt definities, exacte vrijgaven, commerciële snapshots, delivery instances, operationele werkelijkheid en ervaring zonder één tool tot master van alles te maken.</p><ul class="check-list"><li><span aria-hidden="true">✓</span><span data-lang="en">Forward and backward traceability</span><span data-lang="nl">Voorwaartse en achterwaartse traceerbaarheid</span></li><li><span aria-hidden="true">✓</span><span data-lang="en">Exact versions, owners, decisions and evidence</span><span data-lang="nl">Exacte versies, eigenaren, besluiten en bewijs</span></li><li><span aria-hidden="true">✓</span><span data-lang="en">Separate lifecycle and readiness decisions</span><span data-lang="nl">Afzonderlijke lifecycle- en gereedheidsbesluiten</span></li></ul></div>
+                    <div class="mini-thread" aria-hidden="true"><span>Outcome</span><i></i><span>Release</span><i></i><span>Snapshot</span><i></i><span>Instance</span><i></i><span>Evidence</span></div>
+                  </article>
+                  <article class="lens-panel" data-lens-panel="workplace">
+                    <div class="lens-panel__copy"><span class="object-pill">Outcome</span><h3 data-lang="en">What should people be able to achieve and experience?</h3><h3 data-lang="nl">Wat moeten mensen kunnen bereiken en ervaren?</h3><p data-lang="en">The workplace starts with people, not platforms. Freedom of access only becomes valuable when it is productive, creative, secure, compliant, calm and inclusive.</p><p data-lang="nl">De werkplek begint bij mensen, niet bij platformen. Vrijheid van toegang krijgt pas waarde wanneer zij productief, creatief, veilig, compliant, geruststellend en inclusief is.</p><div class="layer-flow" data-label-en="Governance, Design, Configuration" data-label-nl="Governance, Design, Configuration" aria-label="Governance, Design, Configuration"><span><strong>Governance</strong><small data-lang="en">what and why</small><small data-lang="nl">wat en waarom</small></span><b aria-hidden="true">→</b><span><strong>Design</strong><small data-lang="en">how it works and feels</small><small data-lang="nl">hoe het werkt en voelt</small></span><b aria-hidden="true">→</b><span><strong>Configuration</strong><small data-lang="en">daily reality and evidence</small><small data-lang="nl">dagelijkse werkelijkheid en bewijs</small></span></div></div>
+                    <div class="pillar-cloud" data-label-en="Nine workplace pillars" data-label-nl="Negen workplacepijlers" aria-label="Nine workplace pillars"><span>Anytime</span><span>Anywhere</span><span>Any Device</span><span>Productive</span><span>Creative</span><span>Secure</span><span>Compliance</span><span>Ease of Mind</span><span>Inclusive</span></div>
+                  </article>
+                </div>
               </div>
             </section>
 
@@ -133,7 +232,7 @@
                 </div>
               </div>
 
-              <details class="chapter-disclosure">
+              <details class="chapter-disclosure" open>
                 <summary><span><strong data-lang="en">Why UCF has three different sequences</strong><strong data-lang="nl">Waarom UCF drie verschillende reeksen kent</strong><small data-lang="en">Architecture design, one operational run and organizational adoption serve different purposes.</small><small data-lang="nl">Architectuurontwerp, één operationele run en organisatorische adoptie dienen verschillende doelen.</small></span><span aria-hidden="true">+</span></summary>
                 <div class="disclosure-body">
               <div class="sequence-panel">
@@ -160,7 +259,7 @@
                 </div>
               </details>
 
-              <details class="chapter-disclosure" data-trust-disclosure>
+              <details class="chapter-disclosure" data-trust-disclosure open>
                 <summary><span><strong data-lang="en">Consumer activation stays separate from publication</strong><strong data-lang="nl">Consumeractivatie blijft gescheiden van publicatie</strong><small data-lang="en">Open the local preflight, health and last-known-good chain.</small><small data-lang="nl">Open de lokale preflight-, health- en last-known-good-keten.</small></span><span aria-hidden="true">+</span></summary>
                 <div class="disclosure-body">
               <div class="trust-panel" data-trust-panel>
@@ -261,7 +360,7 @@
                 <p data-lang="nl">Pin iedere release-input waarvan een vakdomein eigenaar is. De PDC legt de exacte combinatie en het besluit vast; zij neemt de onderliggende feiten niet over.</p>
               </header>
 
-              <details class="chapter-disclosure product-release-disclosure">
+              <details class="chapter-disclosure product-release-disclosure" open>
                 <summary><span><strong data-lang="en">Open the federated ProductRelease checkpoint</strong><strong data-lang="nl">Open het federatieve ProductRelease-checkpoint</strong><small data-lang="en">Inspect exact source pins, three separate readiness decisions and the authoritative home of each fact.</small><small data-lang="nl">Onderzoek exacte bronpins, drie afzonderlijke gereedheidsbesluiten en de gezaghebbende plek van ieder feit.</small></span><span aria-hidden="true">+</span></summary>
                 <div class="disclosure-body">
 <div class="release-workbench" data-release-workbench>
@@ -446,10 +545,10 @@
                 <p data-lang="en">Use this page to explore the relationships, then read the full theory, boundaries and source references.</p>
                 <p data-lang="nl">Gebruik deze pagina om de relaties te verkennen en lees daarna de volledige theorie, begrenzing en bronverwijzingen.</p>
               </header>
-              <div class="paper-grid paper-list">
-                <a class="paper-row" data-paper-link data-slug="universal-context-foundation" href="https://github.com/denniswesterman/denniswesterman/blob/main/publications/en/universal-context-foundation.md"><span>01</span><div><p><span data-lang="en">Governable foundation</span><span data-lang="nl">Bestuurbaar fundament</span></p><h3 data-lang="en">Universal Context Foundation</h3><h3 data-lang="nl">Universeel Context Fundament</h3></div><strong aria-hidden="true">↗</strong></a>
-                <a class="paper-row" data-paper-link data-slug="value-delivery-thread" href="https://github.com/denniswesterman/denniswesterman/blob/main/publications/en/value-delivery-thread.md"><span>02</span><div><p><span data-lang="en">Decisions · evidence · delivery</span><span data-lang="nl">Besluiten · bewijs · levering</span></p><h3>Value Delivery Thread</h3></div><strong aria-hidden="true">↗</strong></a>
-                <a class="paper-row" data-paper-link data-slug="workplace-vision" href="https://github.com/denniswesterman/denniswesterman/blob/main/publications/en/workplace-vision.md"><span>03</span><div><p><span data-lang="en">People first</span><span data-lang="nl">Mensen eerst</span></p><h3>Workplace Vision</h3></div><strong aria-hidden="true">↗</strong></a>
+              <div class="paper-grid">
+                <article class="paper-card paper-card--featured"><span class="paper-number">01</span><div><p class="paper-kicker"><span data-lang="en">Context · workflow · governance · portability</span><span data-lang="nl">Context · workflow · governance · portability</span></p><h3 data-lang="en">Universal Context Foundation</h3><h3 data-lang="nl">Universeel Context Fundament</h3><p data-lang="en">A governable, repeatable and vendor-independent foundation for AI workflows.</p><p data-lang="nl">Een bestuurbare, herhaalbare en vendor-onafhankelijke basis voor AI-workflows.</p></div><a data-paper-link data-slug="universal-context-foundation" href="https://github.com/denniswesterman/denniswesterman/blob/main/publications/en/universal-context-foundation.md"><span data-lang="en">Read paper</span><span data-lang="nl">Lees paper</span><span aria-hidden="true">↗</span></a></article>
+                <article class="paper-card"><span class="paper-number">02</span><div><p class="paper-kicker"><span data-lang="en">Customer value · coherence · evidence</span><span data-lang="nl">Klantwaarde · samenhang · bewijs</span></p><h3>Value Delivery Thread</h3><p data-lang="en">The governable line from intended outcome to released promise, delivery evidence and deliberate improvement.</p><p data-lang="nl">De bestuurbare lijn van bedoelde uitkomst naar vrijgegeven belofte, leveringsbewijs en gerichte verbetering.</p></div><a data-paper-link data-slug="value-delivery-thread" href="https://github.com/denniswesterman/denniswesterman/blob/main/publications/en/value-delivery-thread.md"><span data-lang="en">Read paper</span><span data-lang="nl">Lees paper</span><span aria-hidden="true">↗</span></a></article>
+                <article class="paper-card"><span class="paper-number">03</span><div><p class="paper-kicker"><span data-lang="en">People first</span><span data-lang="nl">Mensen eerst</span></p><h3>Workplace Vision</h3><p data-lang="en">A human-purpose foundation through nine pillars and Governance, Design and Configuration.</p><p data-lang="nl">Een fundament van menselijke bedoeling via negen pijlers en Governance, Design en Configuration.</p></div><a data-paper-link data-slug="workplace-vision" href="https://github.com/denniswesterman/denniswesterman/blob/main/publications/en/workplace-vision.md"><span data-lang="en">Read paper</span><span data-lang="nl">Lees paper</span><span aria-hidden="true">↗</span></a></article>
               </div>
             </section>
 
