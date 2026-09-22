@@ -16,7 +16,7 @@
 
 ## Architectuurbibliotheek
 
-Drie publicaties, één architectuurlijn: leg een bestuurbaar contextfundament, behoud betekenis tijdens waardelevering en maak de resulterende menselijke waarde zichtbaar. Kies een publicatie om de volledige Nederlandse paper te openen.
+Drie samenhangende thema's: regie houden op organisatiekennis en AI-gebruik, betekenis behouden tijdens waardelevering en de resulterende menselijke waarde zichtbaar maken. Begin bij het UCF-directiepaper voor het bestuurlijke verhaal; de oorspronkelijke technische architectuurpaper blijft als verdieping beschikbaar.
 
 **[Open de niet-opslaande Value Delivery Thread-demo →](https://denniswesterman.github.io/denniswesterman/)**
 
@@ -24,8 +24,9 @@ Drie publicaties, één architectuurlijn: leg een bestuurbaar contextfundament, 
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="publications/nl/universal-context-foundation.md"><strong>01 · Universeel Context Fundament</strong></a><br />
-      <sub>Bestuurbare context → beheerste uitvoering</sub>
+      <a href="publications/nl/universal-context-foundation-executive.md"><strong>01 · Universeel Context Fundament</strong></a><br />
+      <sub>AI inzetten zonder de regie te verliezen</sub><br />
+      <a href="publications/nl/universal-context-foundation-example.md"><sub>Structuur en toepassingsvoorbeeld</sub></a>
     </td>
     <td width="33%" align="center">
       <a href="publications/nl/value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
@@ -40,9 +41,9 @@ Drie publicaties, één architectuurlijn: leg een bestuurbaar contextfundament, 
 <!-- publication-navigation:end -->
 
 <details>
-<summary><strong>Hoe de drie papers samenhangen</strong></summary>
+<summary><strong>Hoe de drie thema's samenhangen</strong></summary>
 
-1. **Universeel Context Fundament** legt het bestuurbare fundament voor context, beleid, workflow, validatie en bewijs, terwijl AI-technologie vervangbaar blijft.
+1. **Universeel Context Fundament** organiseert kennis, regels, uitvoering, beoordeling en verantwoordelijkheid, zodat de organisatie regie kan houden wanneer technologie verandert. De meerwaarde moet in een afgebakende toepassing worden aangetoond.
 2. **Value Delivery Thread** verbindt die beheerste betekenis met productvrijgave, pricing, offerte, levering, operationele werkelijkheid, ervaring en doelgerichte verbetering.
 3. **Workplace Vision** maakt de menselijke uitkomst expliciet: een werkplek die mensen vrijheid, vertrouwen, duidelijkheid en inclusieve toegang geeft.
 
@@ -108,25 +109,23 @@ De paper onderscheidt definities, releases, snapshots en operationele instanties
 
 ### Universeel Context Fundament
 
-**Context · Workflow · Governance · Portability**
+**Kennis · Eigenaarschap · Beoordeling · Verantwoording**
 
-Het *Universeel Context Fundament* (UCF) is een architectuurwhitepaper over een **bestuurbare, herhaalbare en vendor-onafhankelijke basis voor AI-workflows**.
+**AI inzetten zonder de regie te verliezen** is het UCF-paper voor bestuur, directie, management, CIO en CISO. Het begint bij wat de organisatie moet regelen, niet bij een voorgeschreven software- of bestandsstructuur.
 
-Veel AI-initiatieven beginnen met een model, een prompt en toegang tot organisatiegegevens. Dat kan een bruikbare demonstratie opleveren, maar nog niet automatisch een beheersbaar systeem. UCF verplaatst het duurzame fundament van het model naar de combinatie waarvan de organisatie eigenaar blijft:
+UCF verbindt de opdracht, toegestane informatie, grenzen aan de uitvoering, beoordeling en vrijgave. De organisatie blijft verantwoordelijk voor de voorwaarden waaronder een resultaat gebruikt mag worden, ook wanneer teams, toepassingen of leveranciers veranderen.
 
-- gecontroleerde en versieerbare context;
-- expliciet beleid en workflowcontracten;
-- zichtbare tussenresultaten en menselijke validatie;
-- auditbewijs, rollback en last-known-good-werking;
-- overdraagbare artefacten met vervangbare provideradapters.
+Vier onderdelen beschrijven wat wordt beheerd: **kennis en regels, functionaliteit, gebruikerservaring en gegevensstructuur**. Vijf stappen beschrijven hoe een opdracht verloopt: **opdracht vaststellen, informatie selecteren, concept maken, resultaat beoordelen en vrijgeven**. Dat zijn geen negen verplichte systemen of documenten.
 
-De architectuur gebruikt vijf vaste stappen — **intake, contextselectie, generatie, validatie en publicatie** — en scheidt context, uitvoerbare features, gebruikersinterface en database-evolutie als onafhankelijk bestuurde releaseproducten.
+Het bijbehorende voorbeeld brengt die afspraken samen in één toepassingskaart voor het voorbereiden van een beleidsnotitie. Het voorbeeld is fictief en claimt geen behaalde besparingen of gevalideerde implementatie. Het paper stelt een begrensde proef voor, inclusief vergelijking met een eenvoudiger AI-inrichting onder gelijkwaardige noodzakelijke kwaliteits- en veiligheidsvoorwaarden.
 
-> Het model is vervangbaar. Betekenis, context, kwaliteitscriteria, goedkeuring en bewijs blijven eigendom van de organisatie.
+> Technologie mag veranderen. De verantwoordelijkheid voor het gebruik ervan moet herkenbaar bij de organisatie blijven.
 
-**Versie 1.2 · 11 augustus 2026 · Nederlands**
+**Directiepaper concept 0.3 · Toepassingsvoorbeeld 0.2 · 22 september 2026 · NL/EN**
 
-**[Lees Universeel Context Fundament →](publications/nl/universal-context-foundation.md)**
+**[Lees het UCF-directiepaper →](publications/nl/universal-context-foundation-executive.md)** · **[Open de structuur en het toepassingsvoorbeeld →](publications/nl/universal-context-foundation-example.md)**
+
+[Technische architectuurpaper, versie 1.2 — verdieping](publications/nl/universal-context-foundation.md). De oorspronkelijke technische publicatie blijft ongewijzigd; het directiepaper is geen verklaring van onafhankelijk geverifieerde software of resultaten.
 
 ## Principes waarmee ik werk
 

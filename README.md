@@ -16,7 +16,7 @@
 
 ## Architecture library
 
-Three publications, one architectural line: establish a governable context foundation, preserve meaning throughout value delivery, and make the resulting human value visible. Choose a publication to open the complete English paper.
+Three connected themes: retain control of organizational knowledge and AI use, preserve meaning throughout value delivery, and make the resulting human value visible. Start with the UCF executive paper for the governance perspective; the original technical architecture paper remains available as supporting detail.
 
 **[Open the non-persistent Value Delivery Thread demo →](https://denniswesterman.github.io/denniswesterman/)**
 
@@ -24,8 +24,9 @@ Three publications, one architectural line: establish a governable context found
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="publications/en/universal-context-foundation.md"><strong>01 · Universal Context Foundation</strong></a><br />
-      <sub>Governable context → controlled execution</sub>
+      <a href="publications/en/universal-context-foundation-executive.md"><strong>01 · Universal Context Foundation</strong></a><br />
+      <sub>Using AI without losing control</sub><br />
+      <a href="publications/en/universal-context-foundation-example.md"><sub>Structure and application example</sub></a>
     </td>
     <td width="33%" align="center">
       <a href="publications/en/value-delivery-thread.md"><strong>02 · Value Delivery Thread</strong></a><br />
@@ -40,9 +41,9 @@ Three publications, one architectural line: establish a governable context found
 <!-- publication-navigation:end -->
 
 <details>
-<summary><strong>How the three papers connect</strong></summary>
+<summary><strong>How the three themes connect</strong></summary>
 
-1. **Universal Context Foundation** establishes the governable foundation for context, policy, workflow, validation, and evidence while AI technology remains replaceable.
+1. **Universal Context Foundation** organizes knowledge, rules, execution, assessment, and accountability so the organization can retain control when technology changes. Its added value must be demonstrated in a bounded application.
 2. **Value Delivery Thread** connects that governed meaning to product release, pricing, quotation, delivery, operational reality, experience, and deliberate improvement.
 3. **Workplace Vision** makes the human outcome explicit: a workplace that gives people freedom, confidence, clarity, and inclusive access.
 
@@ -108,25 +109,23 @@ The paper distinguishes definitions, releases, snapshots, and operational instan
 
 ### Universal Context Foundation
 
-**Context · Workflow · Governance · Portability**
+**Knowledge · Ownership · Assessment · Accountability**
 
-The *Universal Context Foundation* (UCF) is an architecture whitepaper about creating a **governable, repeatable, and vendor-independent foundation for AI workflows**.
+**Using AI without losing control** is the UCF paper for boards, executive leadership, management, CIOs, and CISOs. It starts with what the organization must arrange, not with a prescribed software or file structure.
 
-Many AI initiatives begin with a model, a prompt, and access to organizational data. That may produce a useful demonstration, but it does not automatically create a controllable system. UCF moves the durable foundation away from the model and toward the organization-owned combination of:
+UCF connects the assignment, permitted information, execution boundaries, assessment, and release. The organization retains responsibility for the conditions under which a result may be used, even when teams, applications, or suppliers change.
 
-- controlled and versioned context;
-- explicit policies and workflow contracts;
-- visible intermediate results and human validation;
-- audit evidence, rollback, and last-known-good operation;
-- portable artifacts with replaceable provider adapters.
+Four components describe what is managed: **knowledge and rules, functionality, user experience, and data structure**. Five steps describe how an assignment proceeds: **define the assignment, select information, prepare a draft, assess the result, and release**. These are not nine mandatory systems or documents.
 
-The architecture uses five fixed stages — **intake, context selection, generation, validation, and publication** — and separates context, executable features, user-interface design, and database evolution into independently governed release products.
+The companion example brings those agreements together in one application overview for preparing a policy note. The example is fictional; it claims no achieved savings or validated implementation. The paper proposes a bounded trial, including comparison with a simpler AI setup under equivalent necessary quality and safety conditions.
 
-> The model is replaceable. Meaning, context, quality criteria, approval, and evidence remain owned by the organization.
+> Technology may change. Accountability for its use must remain recognizably with the organization.
 
-**Version 1.2 · 11 August 2026 · English**
+**Executive draft 0.3 · Application example 0.2 · 22 September 2026 · EN/NL**
 
-**[Read Universal Context Foundation →](publications/en/universal-context-foundation.md)**
+**[Read the UCF executive paper →](publications/en/universal-context-foundation-executive.md)** · **[Open the structure and application example →](publications/en/universal-context-foundation-example.md)**
+
+[Technical architecture paper, version 1.2 — supporting detail](publications/en/universal-context-foundation.md). The original technical publication remains unchanged; the executive draft is not a claim of independently verified software or results.
 
 ## Principles I work by
 
